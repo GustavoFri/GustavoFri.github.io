@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: "Personal page - 董金国的个人主页"
 excerpt: "About me"
-author_profile: true
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
@@ -19,6 +19,8 @@ redirect_from:
 * I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
 <br>
 * My research interest is in Software Engineering (SE) and Computer Vision (CV). 
+<br>
+* I had internship experience in Hulu, Meituan, IDEA and so on. I like full-stack development, focusing more on the back end.
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
 <br>
