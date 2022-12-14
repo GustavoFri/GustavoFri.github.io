@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Personal page - 董金国的个人主页"
-excerpt: "About me"
-author_profile: False
+title: "About me"
+excerpt: "董金国的个人主页"
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html

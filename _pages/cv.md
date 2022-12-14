@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,13 +12,24 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Advanced Computing (Honours), Australian National University, 2018-2020
-* Bachelor of Engineering majoring in Software Engineering, Northwestern Polytechnical University, 2016-2018
+* Master of Philosophy in Computer and Information Engineering, The Chinese University of Hong Kong (CUHK), Shenzhen, 2021-2023
+* Master of Science in Computer Science, University of Southern California (USC), 2022-2021 (quit)
+* Bachelor of Advanced Computing (Honours), Australian National University (ANU), 2018-2020
+* Bachelor of Engineering majoring in Software Engineering, Northwestern Polytechnical University (NPU), 2016-2018
 
 <br>
 
 Internship experience
 ======
+* 2022.06-2022.09: Hulu, Beijing, China
+  > SDE Intern, Search team
+  * Participated in the daily development and maintenance of the search platform. Hulu search team is responsible for all search services of Disney Streaming including Hulu, Disney+ and Star+
+  * Developed Hulu human resources platform based on Flask + VUE.JS + MySQL + Redis + Elastic Search (full stack), which deepens my understanding of software architecture, database and search algorithms
+  * Designed Role-Based Access Control (RBAC) model for the whole system. Designed database structure
+* 2021.06-2021.08: Meituan, Beijing, China
+  > Front-End Web Developer Intern, Meituan platform
+  * Applied React and TypeScript to build and maintain the performance-monitor system. Performed the mobile end adaptation
+  * Used modules including Ant Design and BizChart to package diagrams to present analysis data
 * 2018.12-2019.02: Tenoke Medical Imaging, Nanjing, China
   > Intern in Development Department, C++ programmer
   * Used C++ and QT to develop medical imaging software for finding plaques in blood vessel.
@@ -99,7 +110,7 @@ Honors and awards
 
 <br>
 
-Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf)
+<!-- Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf) -->
 
 <!-- Skills
 ======
