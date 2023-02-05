@@ -21,7 +21,7 @@ I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at the School o
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary research interests lie on the area involved both Probability and Analysis, like Stochastic Analysis and SPDE. I am learning Pecorlation Theory and SLE recently, which aroused my interest as well.
+My primary research interests lie on the area involved both Probability and Analysis, like Stochastic Analysis and SPDE. I am learning Percolation Theory and SLE recently, which aroused my interest as well.
 
 See my CV [here]()
 
@@ -35,7 +35,10 @@ Honors and Awards
 
 1. [First Prize](../files/awards/CMC.jpg), [rank 16th](../files/awards/cmcrank.pdf){:target="_blank"}，the 13th China National Mathematics Competition for College Students, Dec. 2021
 2. [Winner's Prize](../files/awards/Yau-contest.jpg), [rank 19th](http://yau-contest.com/uploads/file/20220804/20220804000607_65581.pdf){:target="_blank"}, the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022
-3. [First Prize](http://maths.whu.edu.cn/info/1197/18654.htm){:target="_blank"}, Scholarship for Outstanding Students in mathematics, 2021-2022 academic year, Nov. 2022
+
+(I am the first student of WHU to take it in recent five years. [Yau-contest](http://www.yau-contest.com/) is the most valuable contest in China. Only 50- students get this award nationwide each year.)
+
+3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm){:target="_blank"}, Scholarship for Outstanding Students in mathematics, 2021-2022 academic year, Nov. 2022
 
 Activities
 ===
