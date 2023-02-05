@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "董金国的个人主页"
+title                    : "Runzhe Yang 杨润哲"
 title_separator          : "-"
-name                     : &name "Jinguo Dong"
-description              : &description "MPhil in Computer and Information Engineering in CUHK(SZ)"
-url                      : http://djinguo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Runzhe Yang 杨润哲"
+description              : &description "personal description"
+url                      : https://GustavoFri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "" #"academicpages/academicpages.github.io"
+repository               : "GustavoFri/GustavoFri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinguo Dong"
-  avatar           : "profile.jpg"
-  bio              : "MPhil in Computer and Information Engineering in CUHK(SZ)"
-  location         : "Shenzhen, China"
+  name             : "Runzhe Yang 杨润哲"
+  avatar           : "/images/bio-photo.jpg"
+  bio              : "Undergraduate at Wuhan University (WHU)"
+  location         : "299 Luojia Hill Rd., Wuchang District <br>&emsp;&nbsp; Wuhan, Hubei, China, 430061"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "dong.jinguo@outlook.com"
-  blog             : "blog.djinguo.com" 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "2020302011020@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
