@@ -17,7 +17,9 @@ Current
 Short Bio
 ===
 
-I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at the School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability. I grew up in Huizhou, Guangdong in Southern China.
+I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at the School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability.
+
+I grew up in Huizhou, Guangdong in Southern China.
 
 My primary research interests lie on the area involved both Probability and Analysis, like Stochastic Analysis and SPDE. And I am learning Pecorlation Theory and SLE recently, which aroused my interest as well.
 
