@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Blog"
-    url: "https://blog.djinguo.com"
+  - title: "Reading Notes"
+    url: "/readingnotes"
   # - title: "Publications"
   #   url: /publications/
 
@@ -17,8 +17,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /research/
     
   # - title: "Guide"
   #   url: /markdown/
