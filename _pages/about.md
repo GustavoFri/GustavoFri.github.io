@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 excerpt: "Runzhe Yang 杨润哲"
 author_profile: True
 redirect_from: 
