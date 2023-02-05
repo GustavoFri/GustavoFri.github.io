@@ -1,28 +1,46 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "董金国的个人主页"
+excerpt: "Runzhe Yang 杨润哲"
 author_profile: True
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-* Hello, I’m Jinguo!
-<br>
-* I am a MPhil student at the Chinese University of Hong Kong (CUHK), Shenzhen, majoring in Computer and Information Engineering. Currently, I am doing research about 3D reconstruction supervised by [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang) in the [GAP Lab](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/). I am also looking for SDE intern opportunities in Çhina.
-<br>
-* I was a CS master student at the University of Southern California (USC). Sadly, I didn't obtain my degree because of [P.P. 10043](https://www.10043.org/).
-<br>
-* Before that, I was a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). I have been awarded the degree of Bachelor of Advanced Computing with First Class Honours from ANU and the degree of Bachelor of Engineering in Software Engineering from NPU in July 2020. My honours project is Multi-view Detection for Densely Occluded Pedestrian supervised by [Dr Liang Zheng](http://www.liangzheng.com.cn/) in ANU.
-<br>
-* I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
-<br>
-* My research interest is in Software Engineering (SE) and Computer Vision (CV). 
-<br>
-* I had internship experience in Hulu, Meituan, IDEA and so on. I like full-stack development, focusing more on the back end.
-<br>
-* To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
-<br>
-* I like writing blogs to summarize the knowledge or record my interesting experiments. I like sharing and discussing things with others. Visit my Chinese blog [here](https://blog.djinguo.com)!
+Current
+===
 
+*I am seeking for some research opportunity about Probability in Summer, 2023.*
+
+
+Short Bio
+===
+
+I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at the School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability. I grew up in Huizhou, Guangdong in southern China.
+
+My primary research interests lie on the area involved both Probability and Analysis, like Stochastic Analysis and SPDE. And I am learning Pecorlation Theory and SLE recently, which aroused my interest as well.
+
+See my CV [here]()
+
+Education
+===
+
+* Sept. 2020 --- June 2024: B.Sc. in Statistics, School of Mathematics and Statistics, Wuhan University (expected)
+
+Honors and Awards
+===
+
+1. [First Prize](../files/awards/CMC.jpg), rank 16th{:target="_blank"}，the 13th China National Mathematics Competition for College Students, Dec. 2021
+2. [Winner's Prize](../files/awards/Yau-contest.jpg), [rank 19th](http://yau-contest.com/uploads/file/20220804/20220804000607_65581.pdf){:target="_blank"}, the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022
+3. [First Prize](http://maths.whu.edu.cn/info/1197/18654.htm){:target="_blank"}, Scholarship for Outstanding Students in mathematics, 2021-2022 academic year, Nov. 2022
+
+Activities
+===
+
+Reading Notes
+===
+
+I have developed a habit of writing reading notes since I realized that the advanced mathematics is overwhelming, which helps me a lot on building my own knowledge system and reviewing efficiently.
+
+See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
