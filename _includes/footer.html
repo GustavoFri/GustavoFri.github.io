@@ -18,11 +18,9 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    <li><a href="https://blog.djinguo.com"><i class="fab fa-blog" aria-hidden="true"></i> Blog</a></li>
-    <li><a href="https://www.zhihu.com/people/dong-jin-guo-26/activities"><i class="fab fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
+    <li><a href="https://www.zhihu.com/people/goethe-42-79/activities"><i class="fab fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} 版权所有 | <a href="https://beian.miit.gov.cn/">苏ICP备19001979号-1</a> </div>
-
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
