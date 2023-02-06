@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Reading Notes
+title: " "
 permalink: /readingnotes/
 author_profile: true
 redirect_from:
