@@ -11,13 +11,13 @@ redirect_from:
 
 1. Stochastic Analysis and SPDEs
 2. Statistical Physics:
-   - Pecorlation
+   - Percolation
    - SLE
 
 ---
 
 # Projects
-NA
+NULL
 
 # Pubilications
-NA
+NULL
