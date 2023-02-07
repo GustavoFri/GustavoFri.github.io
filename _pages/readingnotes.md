@@ -9,3 +9,4 @@ redirect_from:
 
 
 NA
+[char](../files/DM/Ⅱ.Submanifolds.pdf)
