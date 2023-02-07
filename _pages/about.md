@@ -21,7 +21,7 @@ I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at [the School 
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary research interests lie on the area involved both Probability and Analysis, like Stochastic Analysis and SPDE. I am learning Percolation Theory and SLE recently, which aroused my interest as well.
+My primary research interests lie on the area involved Probability Theory and Analysis, like Stochastic Analysis, SPDE and Stochastic Process. I am learning Percolation Theory and SLE recently, which aroused my interest as well.
 
 See my CV [here](../files/cv.pdf)
 
@@ -39,10 +39,6 @@ Honors and Awards
     (I am the first student of WHU to take it in recent five years. [Yau-contest](http://www.yau-contest.com/) is the most valuable contest in China. Only 50- students     get this award nationwide each year.)
 
 3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm)*, Scholarship for Outstanding Students in mathematics, 2021-2022 academic year, Nov. 2022*
-
-Activities
-===
-NULL
 
 
 Reading Notes
