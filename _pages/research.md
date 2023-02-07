@@ -10,7 +10,7 @@ redirect_from:
 # Research interets
 
 1. Stochastic Analysis and SPDEs
-2. Stochastic process
+2. Stochastic Process
 3. Statistical Physics:
    - Percolation
    - SLE
