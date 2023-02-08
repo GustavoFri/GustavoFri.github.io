@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+Preface
+===
+I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH.
+
+In nutshell, these notes really do me a solid.
+
 *Stochastic Differential Equations*
 ===
 *IN PROGRESS*
