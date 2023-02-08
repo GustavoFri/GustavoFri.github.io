@@ -17,5 +17,5 @@ redirect_from:
 
 ---
 
-# Pubilications
+# Pubilications and Preprints
 NULL
