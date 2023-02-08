@@ -35,17 +35,17 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Advanced Stochastic Process*
 ===
 
-[Ⅰ.Discrete Martingales   ](../files/ASP/1.pdf)
+[Ⅰ.Discrete Martingales](../files/ASP/1.pdf)
 
-[Ⅱ.Discrete Time Markov Chain   ](../files/ASP/2.pdf)
+[Ⅱ.Discrete Time Markov Chain](../files/ASP/2.pdf)
 
-[Ⅲ.Ergodic Theory   ](../files/ASP/3.pdf)
+[Ⅲ.Ergodic Theory](../files/ASP/3.pdf)
 
-[Ⅳ.Gaussian Process   ](../files/ASP/4.pdf)
+[Ⅳ.Gaussian Process](../files/ASP/4.pdf)
 
-[Ⅴ.Brownian Motion   ](../files/ASP/5.pdf)
+[Ⅴ.Brownian Motion](../files/ASP/5.pdf)
 
-*PDE*
+*Partial Differential Equations*
 ===
 [Ⅰ.Preliminary](../files/pde/1.pdf)
 
@@ -190,7 +190,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 [Complement: Examine Statistical model](../files/si/9.pdf)
 
-*ODE*
+*Ordinary Differential Equations*
 ===
 [Ⅰ.Preliminary](../files/ode/1.pdf)
 
