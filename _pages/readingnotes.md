@@ -11,7 +11,7 @@ redirect_from:
 Advanced Stochatic Process
 ===
 
-[Ⅰ.Discrete Time Martingales   ](../files/ASP/1.pdf)
+[Ⅰ.Discrete Martingales   ](../files/ASP/1.pdf)
 
 [Ⅱ.Discrete Time Markov Chain   ](../files/ASP/2.pdf)
 
