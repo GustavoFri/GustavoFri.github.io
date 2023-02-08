@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Advanced Stochatic Process
+*Advanced Stochatic Process*
 ===
 
 [Ⅰ.Discrete Martingales   ](../files/ASP/1.pdf)
