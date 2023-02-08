@@ -9,9 +9,7 @@ redirect_from:
 
 Preface
 ===
-I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH.
-
-In nutshell, these notes really do me a solid.
+I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH.
 
 *Stochastic Differential Equations*
 ===
