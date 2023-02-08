@@ -213,6 +213,6 @@ redirect_from:
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.**
 
-[Ⅰ.Groups and Preliminary Category Theory](../files/ag/1.pdf)
+[Ⅰ.Groups and Preliminary Category Theory](../files/1.pdf)
 
-[Ⅱ.Rings, Modules and Fields](../files/ag/2.pdf)
+[Ⅱ.Rings, Modules and Fields](../files/2.pdf)
