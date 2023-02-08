@@ -214,7 +214,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 [Set Theory and General Topology](../files/gt.pdf)
 
-*Algebra*
+*Advanced Algebra*
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.**
 
