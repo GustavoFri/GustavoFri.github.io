@@ -14,7 +14,7 @@ Current
 *I am seeking for some research opportunity about Probability in Summer, 2023.*
 
 
-Short Bio
+Profile
 ===
 
 I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability.
