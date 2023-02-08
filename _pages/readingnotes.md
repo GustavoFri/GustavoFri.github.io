@@ -61,7 +61,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 [Ⅶ.Linear Evolution Equations](../files/pde/7.pdf)
 
-*Functional Analysis*
+*(Linear) Functional Analysis*
 ===
 
 *Advanced Probability Thoery*
@@ -106,7 +106,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 [Ⅴ. Applications of DTMC](../files/apsp/5.pdf)
 
-[Ⅵ.Markov Random Field and Hidden Markov](../files/apsp/6.pdf)
+[Ⅵ.Markov Random Fields and Hidden Markov Models](../files/apsp/6.pdf)
 
 [Ⅶ.Brownian Motion](../files/apsp/7.pdf)
 
@@ -120,13 +120,13 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Real Analysis*
 ===
-[Lebesgue Measure](../files/ra/1.pdf)
+[Ⅰ.Lebesgue Measure](../files/ra/1.pdf)
 
-[Abstract Measure](../files/ra/2.pdf)
+[Ⅱ.Abstract Measure](../files/ra/2.pdf)
 
-[Randon Measure](../files/ra/3.pdf)
+[Ⅲ.Randon Measure](../files/ra/3.pdf)
 
-[Hausdorff Measure](../files/ra/4.pdf)
+[Ⅳ.Hausdorff Measure](../files/ra/4.pdf)
 
 [A Problem of Measure](../files/ra/5.pdf)
 
@@ -138,13 +138,13 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 [Ⅲ.Meromorphic Functions](../files/ca/3.pdf)
 
-[Ⅳ.Holomorphic](../files/ca/4.pdf)
+[Ⅳ.Holomorphic Extension](../files/ca/4.pdf)
 
 [Ⅴ.Harmonic Functions](../files/ca/5.pdf)
 
 [Ⅵ.Conformal Mappings](../files/ca/6.pdf)
 
-[Ⅶ.Linear Fractional Transformation](../files/ca/7.pdf)
+[Ⅶ.Linear Fractional Transformations](../files/ca/7.pdf)
 
 [Ⅷ.Entire Functions](../files/ca/8.pdf)
 
