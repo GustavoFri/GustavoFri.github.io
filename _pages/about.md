@@ -49,5 +49,4 @@ I have developed a habit of writing reading notes since I realized that the adva
 See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
 
 
-
-[URL=https://info.flagcounter.com/NYhr][IMG]https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/[/IMG][/URL]
+<a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
