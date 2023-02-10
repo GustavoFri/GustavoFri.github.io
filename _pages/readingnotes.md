@@ -66,6 +66,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Advanced Probability Thoery*
 ===
+
+*References:[1]
+
 [Ⅰ.Preliminary](../files/apt/1.pdf)
 
 [Ⅱ.Random Variables](../files/apt/2.pdf)
@@ -91,11 +94,18 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Linear Model*
 ===
 
+*References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from DENG Aijiao, Wuhan University
+
 *Multivariate Statistics*
 ===
 
+*References:[1]	Applied Multivariate Statistical Analysis, Richard A. Johnson, Dean W. Wichern [2]应用多元统计分析, 高惠璇 [3]	Applied Multivariate Statistical Analysis, Hardle, Simar.*
+
 *Applied Stochastic Process*
 ===
+
+*References:[1](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf）Stochastic Processes, J. Chang [2](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html)Lecture Notes on Stochastic Modeling, Karl Sigman
+
 [Ⅰ.Poisson Process](../files/apsp/1.pdf)
 
 [Ⅱ.Renewal Theory](../files/apsp/2.pdf)
@@ -120,6 +130,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Real Analysis*
 ===
+
+*References:[1]Real analysis: modern techniques and their applications, 	Gerald B. Folland [2]Real analysis: measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
+
 [Ⅰ.Lebesgue Measure](../files/ra/1.pdf)
 
 [Ⅱ.Abstract Measure](../files/ra/2.pdf)
@@ -132,6 +145,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Complex Analysis*
 ===
+
+*References:[1]Complex analysis, Elias M. Stein, Rami Shakarchi [2]Invitation to Complex Analysis, Ralph P. Boas [3]Complex analysis,	Ahlfors L.*
+
 [Ⅰ.Preliminaries](../files/ca/1.pdf)
 
 [Ⅱ.Holomorphic Functions](../files/ca/2.pdf)
@@ -154,6 +170,8 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 ===
 *In fact, most manifolds in my notes are SMOOTH.*
 
+*Reference:[1](http://www.homepages.ucl.ac.uk/~ucaheps/papers/Manifolds%202016.pdf)Manifolds, Ed Segal [2]Introduction to Manifolds, Loring W. Tu*
+
 [Ⅰ.Topological Manifolds](../files/dm/1.pdf)
 
 [Ⅱ.Submanifolds](../files/dm/2.pdf)
@@ -172,6 +190,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Statistics Inference*
 ===
+
+*References:[1]Statistical Inference, George Casella, Roger L. Berger [2]Mathematical Statistics and Data Analysis, Rice, John A.*
+
 [Ⅰ.Random Samples](../files/si/1.pdf)
 
 [Ⅱ.Principles of Data Reduction](../files/si/2.pdf)
@@ -192,6 +213,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Ordinary Differential Equations*
 ===
+
+*References:常微分方程教程,丁同仁; 李承治*
+
 [Ⅰ.Preliminary](../files/ode/1.pdf)
 
 [Ⅱ.Solve by Integration](../files/ode/2.pdf)
@@ -212,11 +236,15 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.** 
 
+*References:[1]Topology, James R. Munkres(primary) [2]Lectures on Basic Topology，Chengye You*
+
 [Set Theory and General Topology](../files/gt.pdf)
 
 *Advanced Algebra*
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.**
+
+*References：[1]Algebra, Thomas W. Hungerford(primary) [2]Abstract algebra, David S. Dummit, Richard M. Foote*
 
 [Ⅰ.Groups and Preliminary Category Theory](../files/1.pdf)
 
