@@ -38,7 +38,7 @@ Honors and Awards
 
     (I am the only student of WHU to gain it in recent five years. [Yau-contest](http://www.yau-contest.com/) is the most valuable contest for undergradutes in China.      Only 50± students get this award nationwide each year.)
 
-3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm)*, Scholarship for Outstanding Students in Mathematics, 2021-2022 Academic Year, Nov. 2022*
+3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 
 
 Reading Notes
