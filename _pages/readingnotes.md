@@ -104,7 +104,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Applied Stochastic Process*
 ===
 
-*References:[1][Stochastic Processes](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf）, J. Chang [2][Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html), Karl Sigman*
+*References:[1][Stochastic Processes](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf), J. Chang [2][Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html), Karl Sigman*
 
 [Ⅰ.Poisson Process](../files/apsp/1.pdf)
 
