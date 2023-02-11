@@ -9,7 +9,7 @@ redirect_from:
 
 Preface
 ===
-I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH.
+I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH. These notes really do me a solid.
 
 *Stochastic Differential Equations*
 ===
@@ -94,7 +94,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Linear Model*
 ===
 
-*References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from DENG Aijiao, Wuhan University
+*References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from DENG Aijiao, Wuhan University*
 
 *Multivariate Statistics*
 ===
@@ -104,7 +104,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Applied Stochastic Process*
 ===
 
-*References:[1](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf）Stochastic Processes, J. Chang [2](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html)Lecture Notes on Stochastic Modeling, Karl Sigman
+*References:[1][Stochastic Processes](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf）, J. Chang [2][Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html), Karl Sigman*
 
 [Ⅰ.Poisson Process](../files/apsp/1.pdf)
 
@@ -131,7 +131,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Real Analysis*
 ===
 
-*References:[1]Real analysis: modern techniques and their applications, 	Gerald B. Folland [2]Real analysis: measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
+*References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis: measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
 
 [Ⅰ.Lebesgue Measure](../files/ra/1.pdf)
 
@@ -170,7 +170,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 ===
 *In fact, most manifolds in my notes are SMOOTH.*
 
-*Reference:[1](http://www.homepages.ucl.ac.uk/~ucaheps/papers/Manifolds%202016.pdf)Manifolds, Ed Segal [2]Introduction to Manifolds, Loring W. Tu*
+*Reference:[1][Manifolds](http://www.homepages.ucl.ac.uk/~ucaheps/papers/Manifolds%202016.pdf), Ed Segal [2]Introduction to Manifolds, Loring W. Tu*
 
 [Ⅰ.Topological Manifolds](../files/dm/1.pdf)
 
@@ -214,7 +214,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Ordinary Differential Equations*
 ===
 
-*References:常微分方程教程,丁同仁; 李承治*
+*Reference:常微分方程教程,丁同仁; 李承治*
 
 [Ⅰ.Preliminary](../files/ode/1.pdf)
 
@@ -236,7 +236,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.** 
 
-*References:[1]Topology, James R. Munkres(primary) [2]Lectures on Basic Topology，Chengye You*
+*References:[1]Topology, James R. Munkres(primary) [2]Lectures on Basic Topology, Chengye You*
 
 [Set Theory and General Topology](../files/gt.pdf)
 
