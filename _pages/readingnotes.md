@@ -9,18 +9,29 @@ redirect_from:
 
 Preface
 ===
-I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH. These notes really do me a solid.
+I walked in the palace of advanced MATH in July,2020 after getting through a FAILURE of college entrance exam and deciding to stand up again. And I made these notes since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH. These notes really do me a solid.
+
+*Conformal Invariance of 2D Lattice Models*
+===
+
+*References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
+
+*IN PROGRESS (Mostly base on the lectures given by Hao WU, YMSC)*
 
 *Stochastic Differential Equations*
 ===
+*References:[1] Stochastic Differential Equations, Øksendal B.[2]Stochastic Partial Differential Equation, Étienne Pardoux[3] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer*
+
 *IN PROGRESS*
 
 *Harmonic Analysis*
 ===
-*I will scan and upload it when I am free.*
+*References: [1] Fourier analysis, Javier Duoandikoetxea(primary) [2] Functional Analysis: Introduction to Further Topics in Analysis, Elias M. Stein, Rami Shakarchi [3]Fourier analysis: an introduction, Elias M. Stein, Rami Shakarchi [4]Classical Fourier analysis, Loukas Grafakos [5] Modern Fourier analysis, Loukas Grafakos*
 
 *Stochastic Calculus*
 ===
+
+*References:[1]Brownian Motion, Martingales, and Stochastic Calculus, Le Gall, Jean-François(primary) [2] Continuous martingales and Brownian motion, Daniel Revuz, Marc Yor [3]Brownian Motion and Stochastic Calculus, Ioannis Karatzas, Steven E. Shreve*
 
 [Ⅰ.Continuous Martingales](../files/sc/1.pdf)
 
@@ -35,6 +46,8 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Advanced Stochastic Process*
 ===
 
+*References:[1]Probability Theory: Theory and Examples, Richard Durrett [2][Lecture Notes on Measure-theoretic Probability Theory](https://people.math.wisc.edu/~roch/grad-prob/index.html), Sebastien Roch*
+
 [Ⅰ.Discrete Martingales](../files/ASP/1.pdf)
 
 [Ⅱ.Discrete Time Markov Chain](../files/ASP/2.pdf)
@@ -47,6 +60,9 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 
 *Partial Differential Equations*
 ===
+
+*References:[1]Partial Differential Equations, Lawrence C. Evans [2]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis*
+
 [Ⅰ.Preliminary](../files/pde/1.pdf)
 
 [Ⅱ.Four Kinds of PDEs](../files/pde/2.pdf)
@@ -64,10 +80,13 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *(Linear) Functional Analysis*
 ===
 
+*References:[1]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis [2] Principles of Functional Analysis, Martin Schechter [3]Functional analysis, Peter D. Lax*
+
+
 *Advanced Probability Thoery*
 ===
 
-*References:[1]
+*References:[1]	A course in probability theory, Kai Lai Chung[2] Probability Theory: Theory and Examples, Richard Durrett [3] Advanced Probability Theory, Bingyi Jing*
 
 [Ⅰ.Preliminary](../files/apt/1.pdf)
 
@@ -94,7 +113,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Linear Model*
 ===
 
-*References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from DENG Aijiao, Wuhan University*
+*References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from Aijiao Deng, Wuhan University*
 
 *Multivariate Statistics*
 ===
@@ -104,7 +123,7 @@ I made them since Winter, 2021 when I began to read *Topology* by *Munkres* and 
 *Applied Stochastic Process*
 ===
 
-*References:[1][Stochastic Processes](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf), J. Chang [2][Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html), Karl Sigman*
+*References:[1][Stochastic Processes](http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-notes.pdf), J. Chang [2][Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html), Karl Sigman [3]Stochastic Processes, Sheldon M. Ross*
 
 [Ⅰ.Poisson Process](../files/apsp/1.pdf)
 
