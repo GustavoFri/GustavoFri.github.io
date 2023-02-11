@@ -21,5 +21,9 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "More about ME"
-   url: /moreaboutme/
+    
+  - title: "Publications"
+     url: /publications/
+  
+  #- title: "More about ME"
+  # url: /moreaboutme/
