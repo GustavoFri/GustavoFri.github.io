@@ -21,8 +21,8 @@ main:
   - title: "Research"
     url: /research/
         
-  #- title: "tape"
+ # - title: "tape"
   #  url: /tape/
   
-  #- title: "More about ME"
-  # url: /moreaboutme/
+  - title: "More about ME"
+   url: /moreaboutme/
