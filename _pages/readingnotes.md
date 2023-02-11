@@ -150,7 +150,7 @@ I walked in the palace of advanced MATH in July,2020 after getting through a FAI
 *Real Analysis*
 ===
 
-*References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis: measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
+*References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis:measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
 
 [Ⅰ.Lebesgue Measure](../files/ra/1.pdf)
 
