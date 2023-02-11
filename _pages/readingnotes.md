@@ -207,7 +207,7 @@ I walked in the palace of advanced MATH in July,2020 after getting through a FAI
 
 [Ⅷ.Integration](../files/dm/8.pdf)
 
-*Statistics Inference*
+*Mathematical Statistics*
 ===
 
 *References:[1]Statistical Inference, George Casella, Roger L. Berger [2]Mathematical Statistics and Data Analysis, Rice, John A.*
