@@ -263,7 +263,7 @@ I walked in the palace of advanced MATH in July,2020 after getting through a FAI
 ===
 **I will "refresh" the note which's totally a DISASTER because it's my first time to make a note.**
 
-*References：[1]Algebra, Thomas W. Hungerford(primary) [2]Abstract algebra, David S. Dummit, Richard M. Foote*
+*References:[1]Algebra, Thomas W. Hungerford(primary) [2]Abstract algebra, David S. Dummit, Richard M. Foote*
 
 [Ⅰ.Groups and Preliminary Category Theory](../files/1.pdf)
 
