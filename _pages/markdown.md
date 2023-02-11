@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /moreaboutme/
+permalink: /markdown/
 author_profile: true
 
 ---
