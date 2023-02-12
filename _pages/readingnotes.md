@@ -9,7 +9,7 @@ redirect_from:
 
 Preface
 ===
-I walked in the palace of advanced Math in July, 2020 after getting through a FAILURE of college entrance exam and deciding to stand up again. And I made these notes since Winter, 2021 when I began to read *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH. These notes really do me a solid.
+I walked in the palace of advanced Math in July, 2020 after getting through a FAILURE of college entrance exam. But I made these notes since Winter, 2021 when I was reading *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate [*Kunihiko Kodaira*](https://en.wikipedia.org/wiki/Kunihiko_Kodaira) and look for my own method to learn MATH. These notes really do me a solid.
 
 *Conformal Invariance of 2D Lattice Models*
 ===
@@ -82,6 +82,32 @@ I walked in the palace of advanced Math in July, 2020 after getting through a FA
 
 *References:[1]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis [2] Principles of Functional Analysis, Martin Schechter [3]Functional analysis, Peter D. Lax*
 
+[Ⅰ.Linear Space](../files/fa/1.pdf)
+
+[Ⅱ.Linear Operators](../files/fa/2.pdf)
+
+[Ⅲ.Weak Topology](../files/fa/3.pdf)
+
+[Ⅳ.L^p Space](../files/fa/4.pdf)
+
+[Ⅴ.Hilbert Spaces](../files/fa/5.pdf)
+
+[Ⅵ.Compact Operators](../files/fa/6.pdf)
+
+[Ⅶ.Banach Algebra](../files/fa/7.pdf)
+
+[Ⅷ.Semigroups](../files/fa/8.pdf)
+
+[Ⅸ.Sesquilinear Form](../files/fa/9.pdf)
+
+[Complement: Existence of Projection](../files/fa/10.pdf)
+
+[Complement: Finite Dimensional Operators](../files/fa/11.pdf)
+
+[Complement：Quotient Space](../files/fa/12.pdf)
+
+[Complement：Vector Space over Complex](../files/fa/13.pdf)
+
 
 *Advanced Probability Thoery*
 ===
@@ -114,6 +140,24 @@ I walked in the palace of advanced Math in July, 2020 after getting through a FA
 ===
 
 *References:[1]Plane answers to complex questions: the theory of linear models, Ronald Christensen [2]Lecture Note from Aijiao Deng, Wuhan University*
+
+[Ⅰ.Projection and Generalized Inverse](../files/lm/1.pdf)
+
+[Ⅱ.Estimation](../files/lm/2.pdf)
+
+[Ⅲ.Testing](../files/lm/3.pdf)
+
+[Ⅳ.Variable Selection](../files/lm/4.pdf)
+
+[Ⅴ.Regression Diagnosis](../files/lm/5.pdf)
+
+[Ⅵ.Multicollinearity](../files/lm/6.pdf)
+
+[Ⅶ.ANOVA](../files/lm/7.pdf)
+
+[Ⅷ.ANCOVA](../files/lm/8.pdf)
+
+[Ⅸ.Regression Analysis](../files/lm/9.pdf)
 
 *Multivariate Statistics*
 ===
