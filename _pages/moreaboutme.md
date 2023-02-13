@@ -9,7 +9,7 @@ author_profile: true
 Hobbies
 ===
 
-**I am a MOVIE lover**, enjoring watching the movies varying from 1980s to now. When I'm not doing Math, I will spend most of my time selecting one movie and watch it. My most favourite director is *Karwei Wong*, who is also the first person to make me fall love in the movies. I have a dream to be a director.
+**I am a MOVIE lover**, enjoying watching films spanning from the 1980s to present day. When I'm not immersed in mathematics, I spend the majority of my free time selecting and watching movies. My all-time favorite director is Karwei Wong, who first inspired my love for movies. In fact, I have a dream to be a director.
 
 The following are my TOP 10:
 
