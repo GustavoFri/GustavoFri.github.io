@@ -9,7 +9,8 @@ redirect_from:
 
 Preface
 ===
-I walked in the palace of advanced Math in July, 2020. But I made these notes since Winter, 2021 when I was reading *Topology* by *Munkres* and *Algebra* by *Hungerford*. At that time where I finished the learning of Linear Algerbra and Mathematics Analysis, I didn't think learning MATH is a big deal. Whereas, the concepts and theorems in these two books hit me hard. I began to imitate *Kunihiko Kodaira* and look for my own method to learn MATH. These notes really do me a solid.
+
+In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the winter of 2021, after completing my studies in Linear Algebra and Mathematical Analysis, that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira* and develop my own approach to learning MATH. In fact, these notes have been incredibly helpful in solidifying my understanding.
 
 *Conformal Invariance of 2D Lattice Models*
 ===
