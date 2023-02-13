@@ -3,6 +3,12 @@ main:
   - title: "Reading Notes"
     url: "/readingnotes"
     
+  - title: "Research"
+    url: /research/
+  
+  - title: "More about ME"
+    url: /moreaboutme/
+  
   # - title: "Publications"
   #   url: /publications/
 
@@ -17,11 +23,8 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Research"
-    url: /research/
-        
- # - title: "tape"
+   
+  # - title: "tape"
   #  url: /tape/
   
   #- title: "Guide"
