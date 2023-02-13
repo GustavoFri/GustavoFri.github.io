@@ -9,7 +9,7 @@ author_profile: true
 Hobbies
 ===
 
-**I am a MOVIE lover**, enjoring watching the movies varying from 1980s to now. When I'm not doing Math, I will spend most of my time selecting one movie and watch it. My most favourite director is *Karwei Wong*, who is also the first person making me fall love in the movies. I have a dream to be a director.
+**I am a MOVIE lover**, enjoring watching the movies varying from 1980s to now. When I'm not doing Math, I will spend most of my time selecting one movie and watch it. My most favourite director is *Karwei Wong*, who is also the first person to make me fall love in the movies. I have a dream to be a director.
 
 The following are my TOP 10:
 
@@ -33,7 +33,7 @@ The following are my TOP 10:
 
 - *Everything Everywhere All at Once, directed by Daniel Kwan and Daniel Scheinert*
 
-**I also enjoying watching Series**(but actually, it' s hard to find high-quality series). My most favourite Series are *Breaking Bad* and *Better call Saul*. As for Anime, I love *Rick and Morty*, *Attack on Titan* and *Neon Genesis Evangelion*(They are almost all the anime I have watched...). I also love the works from *Shinichirō Watanabe*.
+**I also enjoying watching Series**(but actually, it' s hard to find high-quality series). My most favourite Series are *Breaking Bad* and *Better call Saul*. As for Anime, I love *Rick and Morty*, *Attack on Titan* and *Neon Genesis Evangelion*(They are almost all the anime I have watched...). I also appreciate the works from *Shinichirō Watanabe*.
 
 
 
