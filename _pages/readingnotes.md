@@ -9,12 +9,10 @@ redirect_from:
 
 Preface
 ===
-
 In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021, after completing my studies in Linear Algebra and Mathematical Analysis, that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira* and develop my own approach to learning MATH. In fact, these notes have been incredibly helpful in solidifying my understanding.
 
 *Conformal Invariance of 2D Lattice Models*
 ===
-
 *References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
 
 *IN PROGRESS (Mostly base on the lectures given by Hao WU, YMSC)*
