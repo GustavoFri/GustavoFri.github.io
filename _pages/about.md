@@ -42,7 +42,6 @@ Honors and Awards
 
 Reading Notes
 ===
-
 I have developed a habit of writing reading notes since I realized that the advanced mathematics is overwhelming. It helps me a lot on building my own knowledge system and reviewing efficiently.
 
 See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
