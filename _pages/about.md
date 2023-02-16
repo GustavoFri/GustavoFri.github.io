@@ -21,7 +21,7 @@ I am **Runzhe Yang (杨润哲)**, a junior undergraduate student at [the School 
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary research interests lie on the area involved Probability and Analysis, like Stochastic Analysis, SPDE and Stochastic Process. Recently, Percolation Theory and SLE also arouse my interest.
+My primary research interests lie in the area involving Probability and Analysis, such as Stochastic Analysis, SPDE, and Stochastic Process. Recently, Percolation Theory and SLE have also aroused my interest.
 
 See my CV [here](../files/cv.pdf)
 
