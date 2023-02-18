@@ -276,7 +276,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Ordinary Differential Equations*
 ===
 
-*Reference:常微分方程教程,丁同仁; 李承治*
+*Reference:[1]常微分方程教程,丁同仁; 李承治(primary)[2][Ordinary Differential Equations and Dynamical Systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf), Gerald Teschl*
 
 [Ⅰ.Preliminary](../files/ode/1.pdf)
 
