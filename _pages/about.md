@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-*I am seeking for Ph.D. position about Probability in Fall, 2024.*
+*I am seeking for some research opportunity about Probability in Summer, 2023.*
 
 Profile
 ===
