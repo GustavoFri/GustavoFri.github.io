@@ -7,7 +7,7 @@ redirect_from:
   - /research_red/
 ---
 
-# Research interets
+# Research Interests
 
 1. Stochastic Analysis and SPDEs
 2. Stochastic Process
