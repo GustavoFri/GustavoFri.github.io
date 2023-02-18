@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+*Le vent se lève, il faut tenter de vivre*
+
 Current
 ===
 
-*I am seeking for some research opportunity about Probability in Summer, 2023.*
-
+*I am seeking for Ph.D. position about Probability in Fall, 2024.*
 
 Profile
 ===
