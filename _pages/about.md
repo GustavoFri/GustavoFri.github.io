@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Le vent se lève, il faut tenter de vivre*
+*"Le vent se lève, il faut tenter de vivre."*
 
 Current
 ===
