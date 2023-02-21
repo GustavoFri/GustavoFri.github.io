@@ -160,10 +160,6 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅸ.Regression Analysis](../files/lm/9.pdf)
 
-*Multivariate Statistics*
-===
-
-*References:[1]	Applied Multivariate Statistical Analysis, Richard A. Johnson, Dean W. Wichern [2]应用多元统计分析, 高惠璇 [3]	Applied Multivariate Statistical Analysis, Hardle, Simar.*
 
 *Applied Stochastic Process*
 ===
@@ -191,6 +187,13 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 [Complement: Likelihood Ratio](../files/apsp/10.pdf)
 
 [Complement: Poisson Clumping Heuristic](../files/apsp/11.pdf)
+
+
+*Multivariate Statistics*
+===
+
+*References:[1]	Applied Multivariate Statistical Analysis, Richard A. Johnson, Dean W. Wichern [2]应用多元统计分析, 高惠璇 [3]	Applied Multivariate Statistical Analysis, Hardle, Simar.*
+
 
 *Real Analysis*
 ===
