@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-*“ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.” ― Σωκράτης*
+*"My search for truth is finished at last, I’m going home." ― Zima Blue*
 
 Hobbies
 ===
