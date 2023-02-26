@@ -194,19 +194,39 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *References:[1]	Applied Multivariate Statistical Analysis, Richard A. Johnson, Dean W. Wichern [2]应用多元统计分析, 高惠璇 [3]	Applied Multivariate Statistical Analysis, Hardle, Simar.*
 
+[Ⅰ.Multinormal Distribution](../files/ms/1.pdf)
+
+[Ⅱ.Estimation](../files/ms/2.pdf)
+
+[Ⅲ.Testing](../files/ms/3.pdf)
+
+[Ⅳ.Regression Analysis](../files/ms/4.pdf)
+
+[Ⅴ.Discriminant Analysis](../files/ms/5.pdf)
+
+[Ⅵ.Cluster Analysis](../files/ms/6.pdf)
+
+[Ⅶ.Principle Component Analysis](../files/ms/7.pdf)
+
+[Ⅷ.Factor Analysis](../files/ms/8.pdf)
+
+[Ⅸ.Canonical Correlation Analysis](../files/ms/9.pdf)
+
+[Complement: Multidimensional scaling](../files/ms/10.pdf)
+
 
 *Real Analysis*
 ===
 
 *References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis:measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
 
-[Ⅰ.Lebesgue Measure](../files/ra/1.pdf)
+[Ⅰ.Lebesgue Measure: Properties, Integration Theory, and Differentiation Theroy](../files/ra/1.pdf)
 
-[Ⅱ.Abstract Measure](../files/ra/2.pdf)
+[Ⅱ.Abstract Measure: Properties, Integration Theory, and Differentiation Theroy](../files/ra/2.pdf)
 
-[Ⅲ.Randon Measure](../files/ra/3.pdf)
+[Ⅲ.Randon Measure: Representation, Reguarity, Duality, and Product measure](../files/ra/3.pdf)
 
-[Ⅳ.Hausdorff Measure](../files/ra/4.pdf)
+[Ⅳ.Hausdorff Measure: Properties and Self-similarity](../files/ra/4.pdf)
 
 [A Problem of Measure](../files/ra/5.pdf)
 
