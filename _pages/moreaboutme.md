@@ -35,7 +35,16 @@ The following are my TOP 10:
 
 - *Everything Everywhere All at Once, directed by Daniel Kwan and Daniel Scheinert*
 
-**I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are *Breaking Bad* and *Better Call Saul*, which I consider to be PERFECT. When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched). Additionally, I have a great appreciation for the works of *Shinichirō Watanabe* and *Makoto Shinkai*.
+**I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are:
+
+-*Breaking Bad* 
+
+-*Better Call Saul*
+
+, which I consider to be PERFECT. When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched). Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of Karwei Wong in Japaness Anime) and *Makoto Shinkai*.
+
+
+
 
 
 
