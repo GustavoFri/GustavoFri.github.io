@@ -38,7 +38,7 @@ Honors and Awards
 2. [Winner's Prize](../files/awards/Yau-contest.jpg), [rank 19th](http://yau-contest.com/uploads/file/20220804/20220804000607_65581.pdf)*, the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022*
   > In the recent five years, I am the sole student from WHU to receive it. [Yau-contest](http://www.yau-contest.com/en) is highly prestigious among undergraduate         contests in China, with only 50± students receiving it annually across the country.
 
-3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
+3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm)(10 in 300)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 
 
 Reading Notes
