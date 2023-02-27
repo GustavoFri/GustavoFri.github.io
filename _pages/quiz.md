@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probability space. If *Xn→X,Yn→Y* both in distribution. Do you think *Xn+Yn→X+Y*?
-    >Think it carefully. You can modify the statement and make it more tricky.
+   
+   >Think it carefully. You can modify the statement and make it more tricky.
     
 Q2: How to prove any two family of basis of one Hilbert space have the same cardinality?
    >You will find sth amazing in definition of "SUM"
