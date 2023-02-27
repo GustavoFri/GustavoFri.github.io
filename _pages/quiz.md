@@ -21,7 +21,7 @@ Q4: For a n.v.s *E. F* is a close subspace, is there a *m* in *F* st. *d(x,F)=d(
 Q5: How to construct a r.v. on one probability space that it has the desired distribution?
    >You can search for a THM called Skorokhod's Representation THM, which is one of my most favourite THM in Probability. Read the proof and find sth amazing.
 
-Q6: What's the dual space of *R^∞*?
+Q6: What's the dual space of *R^∞* equipped with box topology?
    >Can you recall the definition of dual space? 
 
 
