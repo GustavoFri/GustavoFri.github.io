@@ -5,7 +5,7 @@ permalink: /quiz/
 author_profile: true
 ---
 
-Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probability space. If *Xn→X,Yn→Y* both in distribution. Do you think *Xn+Yn→X+Y*?
+Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probability space. If *Xn→X,Yn→Y* both in distribution. Do you think *Xn+Yn→X+Y* in distribution?
    
    >Think it carefully. You can modify the statement and make it more tricky.
     
