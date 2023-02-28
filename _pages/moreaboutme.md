@@ -45,7 +45,7 @@ When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Ge
 
 >The character in *Attack on Titan* whom I admire most is *Erwin Smith*. I believe that we are of the same kind of people, both possessing a strong desire to uncover    the truth. I deem that we both agree a saying, *"朝闻道，夕死可矣。"*
 
-*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
+ >*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
 
 Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of Karwei Wong in Japaness Anime) and *Makoto Shinkai*.
 
