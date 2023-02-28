@@ -25,7 +25,7 @@ I am now a junior undergraduate student at [the School of Mathematics and Statis
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary research interests lie in the area involving Probability and Analysis, such as Stochastic Analysis, SPDE, and Stochastic Process. Recently, Percolation Theory and SLE have also aroused my interest.
+My primary **research interests** lie in the area involving Probability and Analysis, such as Stochastic Analysis, SPDE, and Stochastic Process. Recently, Percolation Theory and SLE have also aroused my interest.
 
 See my CV [here](../files/cv.pdf)
 
