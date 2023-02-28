@@ -30,7 +30,7 @@ Q6: Do you think one transition probability matrix can correspond one CTMC? What
    >It first amazes me because it's a simple example that satisfies strong Markov property but not a Feller process. (Actually, Feller property is a stronger property     than merely strong Markov) If you are interested in this question, you can search for a process called Blackwell process.
 
 Q7: What's the dual space of *R^∞* equipped with box topology?
-   >Can you recall the definition of dual space? 
+   >Can you recall the definition of dual space? You can think it algebracally rather than analysisly.(hint: search for concepts: inductive limit and projective limit)
 
 
  
