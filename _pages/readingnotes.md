@@ -109,7 +109,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Complement: Quotient Space](../files/fa/12.pdf)
 
-[Complement: Vector Space over \mathbb {C} ](../files/fa/13.pdf)
+[Complement: Vector Space over Complex Domain](../files/fa/13.pdf)
 
 
 *Advanced Probability Thoery*
@@ -253,7 +253,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅷ.Entire Functions](../files/ca/8.pdf)
 
-[Ⅸ.Fourier Transformations in \mathbb {C} ](../files/ca/9.pdf)
+[Ⅸ.Fourier Transformations in Complex Domain](../files/ca/9.pdf)
 
 *Differential Manifolds*
 ===
