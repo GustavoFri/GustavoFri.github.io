@@ -27,7 +27,7 @@ Q5: How to construct a r.v. on one probability space that it has the desired dis
    >You can search for a THM called Skorokhod's Representation THM, which is one of my most favourite THM in Probability. Read the proof and find sth amazing.
 
 Q6: Do you think one transition probability matrix can correspond one CTMC? What's about one generator and one CTMC?
-   >It first amazes me because it's a simple example that satisfies strong Markov property but not a Feller process. (Actually, Feller property is a stronger property     than merely strong Markov) If you are interested this question, you can search for a process called Blackwell process.
+   >It first amazes me because it's a simple example that satisfies strong Markov property but not a Feller process. (Actually, Feller property is a stronger property     than merely strong Markov) If you are interested in this question, you can search for a process called Blackwell process.
 
 Q7: What's the dual space of *R^∞* equipped with box topology?
    >Can you recall the definition of dual space? 
