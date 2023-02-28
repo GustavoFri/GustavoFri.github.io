@@ -107,9 +107,9 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Complement: Finite Dimensional Operators](../files/fa/11.pdf)
 
-[Complement：Quotient Space](../files/fa/12.pdf)
+[Complement: Quotient Space](../files/fa/12.pdf)
 
-[Complement：Vector Space over Complex](../files/fa/13.pdf)
+[Complement: Vector Space over Complex](../files/fa/13.pdf)
 
 
 *Advanced Probability Thoery*
@@ -226,7 +226,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅱ.Abstract Measure: Properties, Integration Theory, and Differentiation Theroy](../files/ra/2.pdf)
 
-[Ⅲ.Randon Measure: Representation, Reguarity, Duality, and Product measure](../files/ra/3.pdf)
+[Ⅲ.Radon Measure: Representation, Reguarity, Duality, and Product measure](../files/ra/3.pdf)
 
 [Ⅳ.Hausdorff Measure: Properties and Self-similarity](../files/ra/4.pdf)
 
