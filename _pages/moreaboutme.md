@@ -35,13 +35,19 @@ The following are my TOP 10:
 
 - *Everything Everywhere All at Once, directed by Daniel Kwan and Daniel Scheinert*
 
-**I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are:
+**I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are(which I consider to be PERFECT):
 
 - *Breaking Bad* 
 
 - *Better Call Saul*
 
-, which I consider to be PERFECT. When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched). Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of Karwei Wong in Japaness Anime) and *Makoto Shinkai*.
+When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched).
+
+>The character in *Attack on Titan* whom I admire most is *Erwin Smith*. I believe that we are of the same kind of people, both possessing a strong desire to uncover the truth. I deem that we both agree a saying, *"朝闻道，夕死可矣".*
+
+>*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
+
+Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of Karwei Wong in Japaness Anime) and *Makoto Shinkai*.
 
 
 
