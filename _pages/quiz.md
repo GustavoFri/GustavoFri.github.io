@@ -14,7 +14,7 @@ Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probabili
    
    >Think it carefully. You can modify the statement and make it more tricky.
     
-Q2: How to prove any two family of basis of one Hilbert space have the same cardinality?
+Q2: How to prove any two families of o.n.b of one Hilbert space have the same cardinality?
    >You will find sth amazing in definition of "SUM"
 
 Q3: Do you really think *p(θ∈(a,b))∈{0,1}* for some parameter *θ*?
