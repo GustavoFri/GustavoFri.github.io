@@ -19,7 +19,7 @@ Profile
 ===
 
 My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist, nourishing, or abundant, while "哲" was chosen by my parents with the hope that I would always think rationally and calmly.
-> My English name is **Reinhard Yang**, which some people interpret as "real heart", while it means "mighty and brave or strong judgment" in German. If you find them unconvenient to pronounce, you can simply call me *Reiny*.
+> My English name is **Reinhard Yang**, which some people interpret as "real heart", while it means "mighty and brave or strong judgment" in German. If you find them inconvenient to pronounce, you can simply call me *Reiny*.
 
 
 I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability.
