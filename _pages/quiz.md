@@ -26,7 +26,7 @@ Q4: For a n.v.s *E. F* is a close subspace, is there a *m* in *F* st. *d(x,F)=d(
 Q5: How to construct a r.v. on one probability space that it has the desired distribution?
    >You can search for a THM called Skorokhod's Representation THM, which is one of my most favourite THM in Probability. Read the proof and find sth amazing.
 
-Q6: Do you think one transition probability matrix can correspond one CTMC? What's about one generator and one CTMC?
+Q6: Do you think one transition function can correspond one CTMC? What's about one generator and one CTMC?
    >It first amazes me because it's a simple example that satisfies strong Markov property but not a Feller process. (Actually, Feller property is a stronger property     than merely strong Markov) If you are interested in this question, you can search for a process called Blackwell process.
 
 Q7: What's the dual space of *R^∞* equipped with box topology?
