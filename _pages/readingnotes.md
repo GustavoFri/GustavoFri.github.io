@@ -31,6 +31,26 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 ===
 *References: [1] Fourier analysis, Javier Duoandikoetxea(primary) [2] Functional Analysis: Introduction to Further Topics in Analysis, Elias M. Stein, Rami Shakarchi [3]Fourier analysis: an introduction, Elias M. Stein, Rami Shakarchi [4]Classical Fourier analysis, Loukas Grafakos [5] Modern Fourier analysis, Loukas Grafakos*
 
+[Ⅰ.Fourier Series and Integral](../files/ha/1.pdf)
+
+[Ⅱ.Hardy Littlewood Maximal Functions](../files/ha/2.pdf)
+
+[Ⅲ.Hilbert Transform](../files/ha/3.pdf)
+
+[Ⅳ.Distributions](../files/ha/4.pdf)
+
+[Ⅴ.Singular Integrals](../files/ha/5.pdf)
+
+[Ⅵ.Hardy Space and BMO](../files/ha/6.pdf)
+
+[Ⅶ.Weight Inequality and Ap condition](../files/ha/7.pdf)
+
+Ⅷ.Littlewood-Paley Theory and Multipliers
+
+Ⅸ.T1 Theorem
+
+
+
 *Stochastic Calculus*
 ===
 
@@ -220,11 +240,11 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Real Analysis*
 ===
 
-*References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis:measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi*
+*References:[1]Real analysis: modern techniques and their applications, Gerald B. Folland [2]Real analysis:measure theory, integration and Hilbert spaces, Elias M. Stein, Rami Shakarchi [3]Real and Complex Analysis, Rudin [4]Measure Theory, Cohn*
 
-[Ⅰ.Lebesgue Measure: Properties, Integration Theory, and Differentiation Theroy](../files/ra/1.pdf)
+[Ⅰ.Lebesgue Measure: Properties, Integration Theory, and Differentiation Theory](../files/ra/1.pdf)
 
-[Ⅱ.Abstract Measure: Properties, Integration Theory, and Differentiation Theroy](../files/ra/2.pdf)
+[Ⅱ.Abstract Measure: Properties, Integration Theory, and Differentiation Theory](../files/ra/2.pdf)
 
 [Ⅲ.Radon Measure: Representation, Reguarity, Duality, and Product measure](../files/ra/3.pdf)
 
@@ -235,7 +255,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Complex Analysis*
 ===
 
-*References:[1]Complex analysis, Elias M. Stein, Rami Shakarchi [2]Invitation to Complex Analysis, Ralph P. Boas [3]Complex analysis,	Ahlfors L.*
+*References:[1]Complex analysis, Elias M. Stein, Rami Shakarchi [2]Invitation to Complex Analysis, Ralph P. Boas [3]Complex analysis,	Ahlfors L.[4]Real and Complex Analysis,Rudin*
 
 [Ⅰ.Preliminaries](../files/ca/1.pdf)
 
