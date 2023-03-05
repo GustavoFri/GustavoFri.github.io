@@ -8,7 +8,7 @@ author_profile: true
 
 *"My search for truth is finished at last, I’m going home." ― Zima Blue*
 
-Hobbies
+Personal Interests
 ===
 
 **I am a MOVIE lover**, enjoying watching films spanning from the 1980s to present day. When I'm not immersed in mathematics, I spend the majority of my free time selecting and watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. In fact, I have a dream to be a director.
@@ -47,7 +47,7 @@ When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Ge
 
  >*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
 
-Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of Karwei Wong in Japaness Anime) and *Makoto Shinkai*.
+Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of *Karwei Wong* in Japaness Anime), *Makoto Shinkai*.
 
 
 
