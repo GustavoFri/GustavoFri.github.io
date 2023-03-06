@@ -5,15 +5,12 @@ permalink: /moreaboutme/
 author_profile: true
 ---
 
-
-*"My search for truth is finished at last, I’m going home." ― Zima Blue*
-
 <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/background.png" 
-        width = "50%">
+        width = "100%">
     <br>
     <div style = "
         color: orange;
@@ -24,6 +21,8 @@ author_profile: true
     </div>
     <p> </p>
 </center>
+
+*"My search for truth is finished at last, I’m going home." ― Zima Blue*
 
 Personal Interests
 ===
