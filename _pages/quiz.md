@@ -7,7 +7,6 @@ author_profile: true
 
 *“要多想。” ― 《三体》*
 
-
 *Interesting Quizzes*
 ===
 
@@ -39,7 +38,7 @@ Q7: What's the dual space of *R^∞* equipped with box topology?
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/bg2.PNG" 
-        width = "50%">
+        width = "60%">
     <br>
     <div style = "
         color: orange;
