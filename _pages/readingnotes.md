@@ -250,6 +250,8 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅳ.Hausdorff Measure: Properties and Self-similarity](../files/ra/4.pdf)
 
+[Ⅴ.Haar Measure on LCH topological groups](../files/ra/5.pdf)
+
 [A Problem of Measure](../files/ra/5.pdf)
 
 *Complex Analysis*
@@ -348,6 +350,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *References:[1]Topology, James R. Munkres(primary) [2]Lectures on Basic Topology, Chengye You*
 
 [Set Theory and General Topology](../files/gt.pdf)
+[Topological Group(Refreshed)](../files/Topological Group(Refreshed).pdf)
 
 *Advanced Algebra*
 ===
