@@ -18,6 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
+        さよなら絵梨
     </div>
     <p> </p>
 </center>
