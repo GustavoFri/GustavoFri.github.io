@@ -39,7 +39,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅳ.Distributions](../files/ha/4.pdf)
 
-[Ⅴ.Singular Integrals](../files/ha/5.pdf)
+[Ⅴ.Singular Integrals and C-Z operators](../files/ha/5.pdf)
 
 [Ⅵ.Hardy Space and BMO](../files/ha/6.pdf)
 
@@ -47,7 +47,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 Ⅷ.Littlewood-Paley Theory and Multipliers
 
-Ⅸ.T1 Theorem
+Ⅸ.The T1 Theorem
 
 
 
@@ -60,7 +60,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅱ.Continuous Semimartingales](../files/sc/2.pdf)
 
-[Ⅲ.Stochastic Integration](../files/sc/3.pdf)
+[Ⅲ.Stochastic Integration: Construction, Ito Formula, Representation of Marts, and Girsanov Thm](../files/sc/3.pdf)
 
 [Ⅳ.Local Time and Generalized Ito Formula](../files/sc/4.pdf)
 
@@ -113,7 +113,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅳ.L^p Space](../files/fa/4.pdf)
 
-[Ⅴ.Hilbert Spaces](../files/fa/5.pdf)
+[Ⅴ.Hilbert Spaces and Normal Operators](../files/fa/5.pdf)
 
 [Ⅵ.Compact Operators](../files/fa/6.pdf)
 
@@ -196,11 +196,11 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅳ.Continuous Time Markov Chains](../files/apsp/4.pdf)
 
-[Ⅴ. Applications of DTMC](../files/apsp/5.pdf)
+[Ⅴ. DTMC and its Applications](../files/apsp/5.pdf)
 
 [Ⅵ.Markov Random Fields and Hidden Markov Models](../files/apsp/6.pdf)
 
-[Ⅶ.Brownian Motion](../files/apsp/7.pdf)
+[Ⅶ.Brownian Motion:Levy's construction, Conditional dist, and hitting time](../files/apsp/7.pdf)
 
 [Complement: Stochastic Approximation](../files/apsp/8.pdf)
 
