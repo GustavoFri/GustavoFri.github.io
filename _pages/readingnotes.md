@@ -351,7 +351,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Set Theory and General Topology](../files/gt.pdf)
 
-[Topological Group(Refreshed)](../files/Topological Group(Refreshed).pdf)
+[Topological Group(Refreshed)](../files/tg.pdf)
 
 *Advanced Algebra*
 ===
