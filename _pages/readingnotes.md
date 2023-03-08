@@ -11,7 +11,7 @@ redirect_from:
 
 Preface
 ===
-In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021, after completing my studies in Linear Algebra and Mathematical Analysis, that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira* and develop my own approach to learning MATH. These notes have been incredibly helpful in solidifying my understanding when I'm learning tough courses by myself.
+In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021, after completing my studies in Linear Algebra and Mathematical Analysis, that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira*(who is my most favorite Mathematician) and develop my own approach to learning MATH. These notes have been incredibly helpful in solidifying my understanding when I'm learning tough courses by myself.
 
 **I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
 
@@ -45,9 +45,9 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅶ.Weight Inequality and Ap condition](../files/ha/7.pdf)
 
-Ⅷ.Littlewood-Paley Theory and Multipliers
+[Ⅷ.Littlewood-Paley Theory and Application on Multipliers and Singular Integrals](../files/ha/8.pdf)
 
-Ⅸ.The T1 Theorem
+[Ⅸ.The T1 Theorem](../files/ha/9.pdf)
 
 
 
@@ -200,7 +200,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅵ.Markov Random Fields and Hidden Markov Models](../files/apsp/6.pdf)
 
-[Ⅶ.Brownian Motion:Levy's construction, Conditional dist, and hitting time](../files/apsp/7.pdf)
+[Ⅶ.Brownian Motion:Levy's construction, Conditional Dist, and Shifted Hitting Time](../files/apsp/7.pdf)
 
 [Complement: Stochastic Approximation](../files/apsp/8.pdf)
 
