@@ -105,19 +105,19 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *References:[1]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis [2] Principles of Functional Analysis, Martin Schechter [3]Functional analysis, Peter D. Lax*
 
-[Ⅰ.Linear Space](../files/fa/1.pdf)
+[Ⅰ.Linear Space: Hahn-Banach THM, Dimension, Duality, Orthogonal, Conjugate convex Functions](../files/fa/1.pdf)
 
 [Ⅱ.Linear Operators](../files/fa/2.pdf)
 
-[Ⅲ.Weak Topology](../files/fa/3.pdf)
+[Ⅲ.Weak Topology, Reflexive, Separable and Uniformly Convex](../files/fa/3.pdf)
 
-[Ⅳ.L^p Space](../files/fa/4.pdf)
+[Ⅳ.L^p Space, Regularization and Its Strong Compactness](../files/fa/4.pdf)
 
 [Ⅴ.Hilbert Spaces and Normal Operators](../files/fa/5.pdf)
 
-[Ⅵ.Compact Operators](../files/fa/6.pdf)
+[Ⅵ.Compact Operators and Spectral Theory](../files/fa/6.pdf)
 
-[Ⅶ.Banach Algebra](../files/fa/7.pdf)
+[Ⅶ.Banach Algebra and Riesz Calculus](../files/fa/7.pdf)
 
 [Ⅷ.Semigroups](../files/fa/8.pdf)
 
