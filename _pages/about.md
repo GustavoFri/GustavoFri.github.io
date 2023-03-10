@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-*I am a Ph.D. program applicant this year, seeking for seeking for a Ph.D. position in Probability.*
+*I am a Ph.D. program applicant this year, seeking for a Ph.D. position in Probability.*
 
 Profile
 ===
