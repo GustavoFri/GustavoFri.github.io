@@ -18,7 +18,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Schramm-Loewner Evolutions*
 ===
 
-*References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution, Jason Miller](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf) [3].Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner
+*References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution, Jason Miller](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf) [3].Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner*
 
 *IN PROGRESS*
 
