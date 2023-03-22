@@ -15,17 +15,41 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 **I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
 
+*Schramm-Loewner Evolutions*
+===
+
+*References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution, Jason Miller](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf) [3].Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner
+
+*IN PROGRESS*
+
+
 *Conformal Invariance of 2D Lattice Models*
 ===
 *References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
 
 *IN PROGRESS (Mostly base on the lectures given by Hao WU, YMSC)*
 
+[Ⅰ.Bernoulli Bond Percolation](../files/pt/1.pdf)
+
+[Ⅱ.Bernoulli Site Percolation](../files/pt/2.pdf)
+
+[Ⅲ.Random Cluster Model](../files/pt/3.pdf)
+
+[Ⅵ.Ising Model](../files/pt/4.pdf)
+
 *Stochastic Differential Equations*
 ===
 *References:[1] Stochastic Differential Equations, Øksendal B.[2]Stochastic Partial Differential Equation, Étienne Pardoux[3] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer*
 
 *IN PROGRESS*
+
+[Ⅰ.Ito Integral](../files/sde/1.pdf)
+
+[Ⅱ.Preliminary: Existence and Uniquessness of Solutions and Filtering Problem](../files/sde/2.pdf)
+
+[Ⅲ.Diffusion Process](../files/sde/3.pdf)
+
+Ⅵ.Applications to Boundary Value Problems
 
 *Harmonic Analysis*
 ===
