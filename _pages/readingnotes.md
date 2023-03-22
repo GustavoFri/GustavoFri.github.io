@@ -45,7 +45,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅰ.Ito Integral](../files/sde/1.pdf)
 
-[Ⅱ.Preliminary: Existence and Uniquessness of Solutions and Filtering Problem](../files/sde/2.pdf)
+[Ⅱ.Preliminary: Existence and Uniquessness of Solutions ,and Filtering Problem](../files/sde/2.pdf)
 
 [Ⅲ.Diffusion Process](../files/sde/3.pdf)
 
