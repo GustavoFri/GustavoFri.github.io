@@ -23,7 +23,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *IN PROGRESS*
 
 
-*Conformal Invariance of 2D Lattice Models*
+*Percolation Theory: Conformal Invariance of 2D Lattice Models*
 ===
 *References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
 
