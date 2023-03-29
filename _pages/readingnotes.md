@@ -29,13 +29,15 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *IN PROGRESS (Mostly base on the lectures given by Hao WU, YMSC)*
 
-[Ⅰ.Bernoulli Bond Percolation](../files/pt/1.pdf)
+[Ⅰ.Bernoulli Bond Percolation:](../files/pt/1.pdf)
 
 [Ⅱ.Bernoulli Site Percolation](../files/pt/2.pdf)
 
 [Ⅲ.Random Cluster Model](../files/pt/3.pdf)
 
-[Ⅵ.Ising Model](../files/pt/4.pdf)
+[Ⅵ.FK-Ising Model](../files/pt/4.pdf)
+
+[Ⅴ.Ising Model](../files/pt/5.pdf)
 
 *Stochastic Differential Equations*
 ===
