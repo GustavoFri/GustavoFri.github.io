@@ -43,7 +43,8 @@ Honors and Awards
   > In the recent five years, I am the sole student from WHU to receive it. [Yau-contest](http://www.yau-contest.com/en) is highly prestigious among undergraduate         contests in China, with only 50± students receiving it annually across the country.
 
 3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (10 in 300+)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
-
+4. Third Prize *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
+   >Whatever, I have a good time in Shanghai :)
 
 Reading Notes
 ===
