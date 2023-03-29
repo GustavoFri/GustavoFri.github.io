@@ -44,7 +44,7 @@ Honors and Awards
 
 3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (10 in 300+)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 4. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
-   >Whatever, I have a good time in Shanghai although getting such a unsatisfying prize :)
+   >Whatever, I had a good time in Shanghai although getting such a unsatisfying prize :)
 
 Reading Notes
 ===
