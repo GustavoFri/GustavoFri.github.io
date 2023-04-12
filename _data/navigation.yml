@@ -9,9 +9,11 @@ main:
   - title: "More about ME"
     url: /moreaboutme/
    
-    - title: "Interesting Quizzes"
+  - title: "Interesting Quizzes"
     url: /quiz/
     
+  - title: "Photographs"
+    url: /photographs/
 
     
   
