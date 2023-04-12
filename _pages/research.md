@@ -16,6 +16,7 @@ redirect_from:
    - Gaussian Free Fields
    - Schramm-Loewner Evolutions
 2. Stochastic Analysis and SPDEs
+
 ---
 
 # Research Projects
