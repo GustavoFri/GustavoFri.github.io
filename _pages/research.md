@@ -11,12 +11,11 @@ redirect_from:
 
 # Research Interests
 
-1. Stochastic Analysis and SPDEs
-2. Stochastic Process
-3. Statistical Physics:
+1. Statistical Physics:
    - Percolation
-   - SLE
-
+   - Gaussian Free Fields
+   - Schramm-Loewner Evolutions
+2. Stochastic Analysis and SPDEs
 ---
 
 # Pubilications and Preprints
