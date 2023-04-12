@@ -15,10 +15,31 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 **I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
 
+*Random interlacements*
+===
+
+*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman*
+
+*IN PROGRESS*
+
+*Occupation Times of Gaussian Free Fields*
+===
+
+*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf),A. Sznitman*
+
+*IN PROGRESS*
+
+*Guassian Free Field*
+===
+
+*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell
+
+*IN PROGRESS*
+
 *Schramm-Loewner Evolutions*
 ===
 
-*References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution, Jason Miller](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf) [3].Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner*
+*References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf), Jason Miller [3].[Schramm-Loewner Evolution](https://arxiv.org/pdf/0712.3256.pdf), G. Lawler [4].[Lectures on Schramm–Loewner Evolution](http://www.statslab.cam.ac.uk/~james/Lectures/sle.pdf), N. Berestycki & J.R. Norris*
 
 *IN PROGRESS*
 
@@ -27,31 +48,29 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 ===
 *References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
 
-*IN PROGRESS (Mostly base on the lectures given by Hao WU, YMSC)*
+*Mostly base on the lectures given by Hao WU, YMSC*
 
-[Ⅰ.Bernoulli Bond Percolation:](../files/pt/1.pdf)
+[Ⅰ.Bernoulli Bond Percolation: Phase Transition](../files/pt/1.pdf)
 
-[Ⅱ.Bernoulli Site Percolation](../files/pt/2.pdf)
+[Ⅱ.Bernoulli Site Percolation: Critical Values, Cardy's Formula](../files/pt/2.pdf)
 
-[Ⅲ.Random Cluster Model](../files/pt/3.pdf)
+[Ⅲ.Random Cluster Model: Phase Transition and Self-Dual Points](../files/pt/3.pdf)
 
-[Ⅵ.FK-Ising Model](../files/pt/4.pdf)
+[Ⅵ.FK-Ising Model: Discrete Complex Anaysis, Conformal Invariance](../files/pt/4.pdf)
 
-[Ⅴ.Ising Model](../files/pt/5.pdf)
+[Ⅴ.Ising Model: Critical Value, Conformal Invaraince](../files/pt/5.pdf)
 
 *Stochastic Differential Equations*
 ===
 *References:[1] Stochastic Differential Equations, Øksendal B.[2]Stochastic Partial Differential Equation, Étienne Pardoux[3] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer*
 
-*IN PROGRESS*
 
-[Ⅰ.Ito Integral](../files/sde/1.pdf)
+[Ⅰ.Ito Integral and Ito Process](../files/sde/1.pdf)
 
-[Ⅱ.Preliminary: Existence and Uniquessness of Solutions ,and Filtering Problem](../files/sde/2.pdf)
+[Ⅱ.Example:Filtering Problem](../files/sde/2.pdf)
 
-[Ⅲ.Diffusion Process](../files/sde/3.pdf)
+[Ⅲ.Diffusion Process: Properties, Generators, Feynman-Kac Formula, Mart. Problem, Random Time Change, Girsanov THM of Diffusions](../files/sde/3.pdf)
 
-Ⅵ.Applications to Boundary Value Problems
 
 *Harmonic Analysis*
 ===
@@ -222,7 +241,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅳ.Continuous Time Markov Chains](../files/apsp/4.pdf)
 
-[Ⅴ. DTMC and its Applications](../files/apsp/5.pdf)
+[Ⅴ. DTMC and Applications](../files/apsp/5.pdf)
 
 [Ⅵ.Markov Random Fields and Hidden Markov Models](../files/apsp/6.pdf)
 
