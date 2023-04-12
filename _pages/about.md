@@ -19,14 +19,14 @@ Profile
 ===
 
 My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist, nourishing, or abundant, while "哲" was chosen by my parents with the hope that I would always think rationally and calmly.
-> My English name is **Reinhard Yang**, which some people interpret as "real heart", while it means "mighty and brave or strong judgment" in German. If you find them inconvenient to pronounce, you can simply call me *Reiny*.
+> My English name is **Reinhard Yang**, which some people interpret as "real heart", while it means "mighty and brave or strong judgment" in German. Or you can simply call me *Reiny*.
 
 
 I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability.
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary **research interests** lie in the area involving Probability and Analysis, such as Stochastic Analysis, SPDE, and Stochastic Process. Recently, Percolation Theory and SLE have also aroused my interest.
+My primary **research interests** lie in the area involving Probability and Analysis, like Stochastic Analysis and SPDE. I am also interested in Statistical Physics, such as Percolation, SLE and Gaussian Free Fields. 
 
 See my CV [here](../files/cv.pdf)
 
@@ -44,7 +44,7 @@ Honors and Awards
 
 3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (10 in 300+)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 4. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
-   >Whatever, I had a good time in Shanghai although getting such a unsatisfying prize :)
+   >Whatever, I had a good time in Shanghai although getting such a unsatisfying prize. You can see some photos in Shanghai [here](https://www.zhihu.com/question/591749805/answer/2959531767):)
 
 Reading Notes
 ===
