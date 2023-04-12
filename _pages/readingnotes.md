@@ -25,14 +25,14 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Occupation Times of Gaussian Free Fields*
 ===
 
-*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf),A. Sznitman*
+*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman*
 
 *IN PROGRESS*
 
 *Guassian Free Field*
 ===
 
-*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell
+*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
 
 *IN PROGRESS*
 
