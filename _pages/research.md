@@ -17,10 +17,9 @@ redirect_from:
    - Schramm-Loewner Evolutions
 2. Stochastic Analysis and SPDEs
 
-
 # Research Projects
 
-## 1.Level Set Percolation on Gaussian Free Fields
+**1.Level Set Percolation on Gaussian Free Fields**
 
 Supervisor: [Prof. Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)
 
