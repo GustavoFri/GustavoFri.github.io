@@ -5,6 +5,7 @@ permalink: /photographs/
 author_profile: true
 ---
 
+
 ***I will find a way to share photos here***
 
 I am a amateur photographer, loving taking photos of scenery.
