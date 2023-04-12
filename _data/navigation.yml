@@ -12,7 +12,8 @@ main:
     - title: "Interesting Quizzes"
     url: /quiz/
     
-
+  - title: "Photographs"
+    url: /photographs/
     
   
   # - title: "Publications"
