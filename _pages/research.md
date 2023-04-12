@@ -17,7 +17,6 @@ redirect_from:
    - Schramm-Loewner Evolutions
 2. Stochastic Analysis and SPDEs
 
----
 
 # Research Projects
 
@@ -27,7 +26,6 @@ Supervisor: [Prof. Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)
 
 Mar.2023 --- Now (Remote)
 
----
 
 # Pubilications and Preprints
 NULL
