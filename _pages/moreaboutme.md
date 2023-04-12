@@ -51,6 +51,8 @@ The following are my TOP 10:
 
 - *Everything Everywhere All at Once, directed by Daniel Kwan and Daniel Scheinert*
 
+- *Journey to the West, directed by Kong Dashan*
+
 **I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are(which I consider to be PERFECT):
 
 - *Breaking Bad* 
@@ -64,6 +66,8 @@ When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Ge
  >*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
 
 Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of *Karwei Wong* in Japaness Anime), *Makoto Shinkai*.
+
+**I love Classical Music.** My top two favorite musicians are *Johann Sebastian Bach* and *Franz Schubert*(Erlkönig is absolutely spectacular).
 
 
 
