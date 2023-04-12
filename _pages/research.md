@@ -18,5 +18,15 @@ redirect_from:
 2. Stochastic Analysis and SPDEs
 ---
 
+# Research Projects
+
+## 1.Level Set Percolation on Gaussian Free Fields
+
+Supervisor: [Prof. Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)
+
+Mar.2023 --- Now (Remote)
+
+---
+
 # Pubilications and Preprints
 NULL
