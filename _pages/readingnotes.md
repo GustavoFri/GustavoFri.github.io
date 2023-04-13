@@ -15,7 +15,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 **I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
 
-*Random interlacements*
+*Random Interlacements*
 ===
 
 *Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman*
