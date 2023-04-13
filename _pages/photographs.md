@@ -10,7 +10,7 @@ author_profile: true
 Photographs
 ===
 
-I am an amateur photographer, loving taking photos of scenery. I will share my works on *Behance*, you can see my works [here](https://www.behance.net/runzheyang1).
+I am an amateur photographer, loving taking photos of scenery. I will share my works on *[Behance](https://www.behance.net/)*, you can see my works [here](https://www.behance.net/runzheyang1).
 
 Some Selected Works
 ===
