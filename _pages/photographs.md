@@ -10,10 +10,11 @@ author_profile: true
 Photographs
 ===
 
-***I will find a way to share photos here***
+I am an amateur photographer, loving taking photos of scenery. I will share my works on *Behance*, you can see my works [here](https://www.behance.net/runzheyang1).
 
-I am an amateur photographer, loving taking photos of scenery.
+Some Selected Works
+===
 
-Devices: *Nikon Zfc, Z DX 16-50mm f/3.5-6.3 VR; iPhone*
+**Devices**: *Nikon Zfc, Z DX 16-50mm f/3.5-6.3 VR; iPhone*
 
 
