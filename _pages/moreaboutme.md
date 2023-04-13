@@ -67,7 +67,7 @@ When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Ge
 
 Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of *Karwei Wong* in Japaness Anime), *Makoto Shinkai*.
 
-**I love Classical Music.** My top two favorite musicians are *Johann Sebastian Bach* and *Franz Schubert*(Erlkönig is absolutely spectacular).
+**I love Classical Music.** My most favorite musician is *Johann Sebastian Bach*.
 
 
 
