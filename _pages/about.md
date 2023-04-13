@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-*I am a Ph.D. program applicant this year, seeking for a Ph.D. position in Probability.*
+*I am doing a research program concerning Level Set Percolation on Gassian Free Field. My advisor is Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)*
 
 Profile
 ===
