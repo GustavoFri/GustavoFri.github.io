@@ -5,7 +5,7 @@ permalink: /photographs/
 author_profile: true
 ---
 
-*"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
+*“Wer viel einst zu verkünden hat, schweigt viel in sich hinein. Wer einst den Blitz zu zünden hat, muß lange Wolke sein.” ― Friedrich Nietzsche*
 
 Photographs
 ===
