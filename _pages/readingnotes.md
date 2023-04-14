@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+*"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
 
 
 Preface
