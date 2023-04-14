@@ -10,7 +10,7 @@ author_profile: true
 Photographs
 ===
 
-I am an amateur photographer, loving taking photos of scenery. I will share my works on *[Behance](https://www.behance.net/)*, you can see my works [here](https://www.behance.net/runzheyang1). Alternatively, I will also share them on *[500px](https://500px.com.cn/community/index.html)*, you can see my works [here](https://500px.com.cn/runzheyang) (It's accessible without VPN).
+I am an amateur photographer, loving taking photos of scenery. I am still learning photographic art. I will share my works on *[Behance](https://www.behance.net/)*, you can see my works [here](https://www.behance.net/runzheyang1). Alternatively, I will also share them on *[500px](https://500px.com.cn/community/index.html)*, you can see my works [here](https://500px.com.cn/runzheyang) (It's accessible without VPN).
 
 Some Selected Works
 ===
