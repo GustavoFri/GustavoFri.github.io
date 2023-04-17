@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-*I am doing a research program concerning Level Set Percolation on Gassian Free Field. My advisor is Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)*
+*I am doing a research program concerning Level Set Percolation on Gaussian Free Field. My advisor is Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)*
 
 Profile
 ===
@@ -22,7 +22,7 @@ My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist,
 > My English name is **Reinhard Yang**, which some people interpret as "real heart", while it means "mighty and brave or strong judgment" in German. Or you can simply call me *Reiny*.
 
 
-I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability.
+I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability, on my way of being a probabilist.
 
 I grew up in Huizhou, Guangdong in Southern China.
 
