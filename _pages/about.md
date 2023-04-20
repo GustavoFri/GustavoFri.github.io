@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-*I am doing a research program concerning Level Set Percolation on Gaussian Free Field and loop Percolation. My advisor is Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)*
+*I am doing a research program concerning Level Set Percolation on Gaussian Free Field and Loop Percolation. My advisor is Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977/)*
 
 Profile
 ===
