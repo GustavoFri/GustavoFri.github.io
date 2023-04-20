@@ -30,7 +30,7 @@ My primary **research interests** lie in the area involving Probability and Anal
 
 See my CV [here](../files/cv.pdf)
 
-My **WeChat** : *Silenc10*. Please feel free to contract me.
+My **WeChat** : *Silenc1o*. Please feel free to contract me.
 
 Education
 ===
