@@ -30,8 +30,6 @@ My primary **research interests** lie in the area involving Probability and Anal
 
 See my CV [here](../files/cv.pdf)
 
-My **WeChat** : *Silenc1o*. Please feel free to contract me.
->"Silenc1o" is "Silencio", a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene that really amazed me in one movie called *Mulholland Drive*, directed by *David Lynch*.
 
 Education
 ===
@@ -56,7 +54,12 @@ I have formed a habit of taking reading notes since I came to the realization th
 See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
 
 
-Vistor Counter
+Contract
 ===
+
+You can directly send an email to me.
+
+My **WeChat** : *Silenc1o*. Please feel free to contract me.
+>"Silenc1o" is "Silencio", a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene that really amazed me in one movie called *Mulholland Drive*, directed by *David Lynch*.
 
 <a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
