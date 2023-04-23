@@ -45,7 +45,7 @@ Honors and Awards
 
 3. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (10 in 300+)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 4. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
-   >Whatever, I had a good time in Shanghai although getting such a unsatisfying prize. You can see some photos in Shanghai  [here](https://www.zhihu.com/question/591749805/answer/2959531767). :)
+   >Whatever, I had a good time in Shanghai although getting such a unsatisfying prize. You can see some photos in Shanghai [here](https://www.zhihu.com/question/591749805/answer/2959531767) :)
 
 Reading Notes
 ===
@@ -62,6 +62,6 @@ Contact
 My **E-mail**: *runzheyang2020@whu.edu.cn*. You can directly send an email to me. 
 
 My **WeChat** : *Silenc1o*. Feel free to contact me.
->"Silenc1o" is "Silencio", a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene that really amazed me in one movie called *Mulholland Drive*, directed by *David Lynch*.
+>"Silenc1o" is "Silencio", a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene in one movie called *Mulholland Drive*, directed by *David Lynch*.
 
 <a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
