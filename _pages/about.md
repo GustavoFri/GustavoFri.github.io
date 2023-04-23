@@ -54,7 +54,7 @@ I have formed a habit of taking reading notes since I came to the realization th
 See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
 
 
-Contract
+Contact
 ===
 
 You can directly send an email to me.
