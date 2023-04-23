@@ -57,7 +57,9 @@ See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
 Contact
 ===
 
-You can directly send an email to me.
+**Pronouns**: he/him/his
+
+My **E-mail**: *runzheyang2020@whu.edu.cn*. You can directly send an email to me. 
 
 My **WeChat** : *Silenc1o*. Feel free to contact me.
 >"Silenc1o" is "Silencio", a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene that really amazed me in one movie called *Mulholland Drive*, directed by *David Lynch*.
