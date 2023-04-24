@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
+*"il cessa de calculer et de vivre." ― Marquis de Condorcet*
 
 
 Preface
