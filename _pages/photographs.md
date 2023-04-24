@@ -5,7 +5,7 @@ permalink: /photographs/
 author_profile: true
 ---
 
-*“Wer viel einst zu verkünden hat, schweigt viel in sich hinein. Wer einst den Blitz zu zünden hat, muß lange Wolke sein.” ― Friedrich Nietzsche*
+*"My search for truth is finished at last, I’m going home." ― Zima Blue*
 
 Photographs
 ===
