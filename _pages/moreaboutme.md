@@ -22,7 +22,7 @@ author_profile: true
     <p> </p>
 </center>
 
-*"My search for truth is finished at last, I’m going home." ― Zima Blue*
+*"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
 
 Personal Interests
 ===
