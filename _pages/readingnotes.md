@@ -127,6 +127,9 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅴ.Brownian Motion](../files/ASP/5.pdf)
 
+[Ⅵ.Q-Process](../files/ASP/6.pdf)
+
+
 *Partial Differential Equations*
 ===
 
