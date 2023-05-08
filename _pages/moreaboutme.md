@@ -69,7 +69,7 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **I love Classical Music.** My most favorite musician is *Johann Sebastian Bach*.
 
-
+**BTW, I am also a semiprofessional DETECTIVE**
 
 
 
