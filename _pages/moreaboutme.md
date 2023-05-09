@@ -69,8 +69,15 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **I love Classical Music.** My most favorite musician is *Johann Sebastian Bach*.
 
-**BTW, I am also a semiprofessional DETECTIVE.**
+**BTW, I am also a semiprofessional DETECTIVE**, liking deductive reasoning on everything in my daily life.
 
+My MBTI
+===
+
+I once took a MBTI test in one class about career planning. Although I think it's a joke, I still put the result here，which may make some sense. People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana* , one sociologist. So don't let the labels limit you and get lost in such boring things. 
+
+I am a **INTJ-A/INTJ-T**.
+>**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
 
 
 
