@@ -49,9 +49,7 @@ The following are my TOP 10:
 
 - *Being John Malkovich, directed by Spike Jonze*
 
-- *Everything Everywhere All at Once, directed by Daniel Kwan and Daniel Scheinert*
-
-- *Journey to the West, directed by Kong Dashan*
+- *Drive My Car, directed by Ryusuke Hamaguchi*
 
 **I also enjoy watching series**, although it can be challenging to find high-quality ones. My top two favorite series are(which I consider to be PERFECT):
 
