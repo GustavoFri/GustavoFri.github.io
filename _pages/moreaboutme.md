@@ -82,8 +82,8 @@ MISC
 ===
 
 *Mein Glück*
-          
-          *--Friedrich Nietzsche*
+
+*--Friedrich Nietzsche*
 
 *Seit ich des Suchens müde ward,*
 
@@ -93,4 +93,3 @@ MISC
 
 *Segl' ich mit allen Winden.*
  
-
