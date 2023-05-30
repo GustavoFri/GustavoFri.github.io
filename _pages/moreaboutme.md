@@ -82,11 +82,15 @@ MISC
 ===
 
 *Mein Glück*
+          
           *--Friedrich Nietzsche*
 
-*Seit ich des Suchens müde ward,
-Erlernte ich das Finden.
-Seit mir ein Wind hielt Widerpart,
-Segl' ich mit allen Winden.*
+*Seit ich des Suchens müde ward,*
+
+*Erlernte ich das Finden.*
+
+*Seit mir ein Wind hielt Widerpart,*
+
+*Segl' ich mit allen Winden.*
  
 
