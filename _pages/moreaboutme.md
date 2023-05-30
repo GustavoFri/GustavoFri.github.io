@@ -78,5 +78,15 @@ I once took a MBTI test in one class about career planning. Although I think the
 Whatever, it seems that I may be a **INTJ-A/INTJ-T**.
 >**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
 
+MISC
+===
 
+*Mein Glück*
+          *--Friedrich Nietzsche*
+
+*Seit ich des Suchens müde ward,
+Erlernte ich das Finden.
+Seit mir ein Wind hielt Widerpart,
+Segl' ich mit allen Winden.*
+ 
 
