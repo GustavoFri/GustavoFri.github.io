@@ -81,15 +81,15 @@ Whatever, it seems that I may be a **INTJ-A/INTJ-T**.
 MISC
 ===
 
-*Mein Glück*
+***Mein Glück***
 
 *--Friedrich Nietzsche*
 
-*Seit ich des Suchens müde ward,*
+*"Seit ich des Suchens müde ward,*
 
 *Erlernte ich das Finden.*
 
 *Seit mir ein Wind hielt Widerpart,*
 
-*Segl' ich mit allen Winden.*
+*Segl' ich mit allen Winden."*
  
