@@ -24,6 +24,8 @@ author_profile: true
 
 *"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
 
+*"在隆冬,我终于知道, 我的身上有一个不可战胜的夏天。"*
+
 Personal Interests
 ===
 
@@ -67,13 +69,13 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **I love Classical Music.** My most favorite musician is *Johann Sebastian Bach*.
 
-**BTW, I am also a semiprofessional DETECTIVE**, liking deductive reasoning on everything in my daily life.
+**BTW, I am also a semiprofessional DETECTIVE.**
 
 My MBTI
 ===
 
 I once took a MBTI test in one class about career planning. Although I think the test may somewhat be a joke, I still put the result here, which may make some sense. 
->People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana*, one sociologist. Don't let the labels limit you and get lost in such boring things! 
+>People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana*, one sociologist. Don't let the labels limit you and get lost in such boring things.
 
 Whatever, it seems that I may be a **INTJ-A/INTJ-T**.
 >**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
