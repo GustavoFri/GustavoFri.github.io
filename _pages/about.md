@@ -17,7 +17,7 @@ Current
 
 I am fine.
 
-Profile
+Short Bio
 ===
 
 My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist, nourishing, or abundant, while "哲" was chosen by my parents with the hope that I would always think rationally and calmly.
