@@ -15,6 +15,6 @@ I am an amateur photographer, loving taking photos of scenery. I am still learni
 Some Selected Works
 ===
 
-**Devices**: *Nikon Zfc, Z DX 16-50mm f/3.5-6.3 VR; iPhone*
+**Devices**: *Nikon Zfc, NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
 
 
