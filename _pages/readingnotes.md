@@ -20,7 +20,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Loop Percolations*
 ===
 
-*Reference:[1].[Phase transition in loop percolation](https://arxiv.org/abs/1403.5687), Yinshan Chang, Artëm Sapozhnikov [2].[Supercritical loop percolation on Z^d for d≥3](https://arxiv.org/abs/1504.07906) [3].[Decoupling inequalities and supercritical percolation for the vacant set of random walk loop soup], Caio Alves, Artem Sapozhnikov*
+*Reference:[1].[Phase transition in loop percolation](https://arxiv.org/abs/1403.5687), Yinshan Chang, Artëm Sapozhnikov [2].[Supercritical loop percolation on Z^d for d≥3](https://arxiv.org/abs/1504.07906) [3].[Decoupling inequalities and supercritical percolation for the vacant set of random walk loop soup](https://arxiv.org/abs/1808.01277), Caio Alves, Artem Sapozhnikov*
 
 *IN PROGRESS*
 
@@ -80,7 +80,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅴ. SLE(6): Locality](../files/sle/5.pdf)
 
-[Ⅵ. SLE(8/3)：Brownian Excursions and Restriction](../files/sle/6.pdf)
+[Ⅵ. SLE(8/3): Brownian Excursions and Restriction](../files/sle/6.pdf)
 
 [Ⅶ. SLE(4) and Gaussian Free Fields](../files/sle/7.pdf)
 
@@ -102,7 +102,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *Stochastic Differential Equations*
 ===
-*References:[1] Stochastic Differential Equations, Øksendal B.[2]Stochastic Partial Differential Equation, Étienne Pardoux[3] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer*
+*References:[1] Stochastic Differential Equations, Øksendal B. [2]Stochastic Partial Differential Equation, Étienne Pardoux [3] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer*
 
 
 [Ⅰ.Ito Integral and Ito Process](../files/sde/1.pdf)
@@ -111,6 +111,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅲ.Diffusion Process: Properties, Generators, Feynman-Kac Formula, Mart. Problem, Random Time Change, Girsanov THM of Diffusions](../files/sde/3.pdf)
 
+[Ⅳ.Stationary Distribution of Diffusions](../files/sde/4.pdf)
 
 *Harmonic Analysis*
 ===
