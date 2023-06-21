@@ -7,20 +7,22 @@ author_profile: true
 
 *“Wir müssen wissen,wir werden wissen.” ― David Hilbert*
 
+*"我们必将知道,我们终将知道"*
+
 Research Interests
 ===
 
 1. Statistical Physics:
    - Percolation
-   - Gaussian Free Fields
+   - Gaussian Free Fields and Interface Models
+   - Random Walks and Random Interlacements
    - Schramm-Loewner Evolutions
-   
 2. Stochastic Analysis and SPDEs
 
 Research Projects
 ===
 
-***1.Level Set Percolation and Loop Percolation on Gaussian Free Fields***
+***1.Lower Bound for Disconnection of Loop Percolations***
 
 Supervisor: *Prof. [Maximilian Nitzschner](https://cims.nyu.edu/~mn2977)*
 
