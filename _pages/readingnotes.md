@@ -9,6 +9,7 @@ redirect_from:
 
 *"il cessa de calculer et de vivre." ― Marquis de Condorcet*
 
+*"当欧拉停止了计算，他便停止了生命。"*
 
 Preface
 ===
