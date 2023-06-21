@@ -17,34 +17,72 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 **I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
 
+*Loop Percolations*
+===
+
+*Reference:[1].[Phase transition in loop percolation](https://arxiv.org/abs/1403.5687), Yinshan Chang, Artëm Sapozhnikov [2].[Supercritical loop percolation on Z^d for d≥3](https://arxiv.org/abs/1504.07906) [3].[Decoupling inequalities and supercritical percolation for the vacant set of random walk loop soup], Caio Alves, Artem Sapozhnikov*
+
+*IN PROGRESS*
+
 *Random Interlacements*
 ===
 
-*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman*
+*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman [3].[Lectures on the Poisson Process](https://www.math.kit.edu/stoch/~last/seite/lectures_on_the_poisson_process/media/lastpenrose2017.pdf), Gunter Last, Mathew Penrose [4].[A lower bound for disconnection by random interlacements](https://arxiv.org/abs/1310.2177), Xinyi Li, Alain-Sol Sznitman*
 
-*IN PROGRESS*
+[Ⅰ. General Theory of Poisson Process](../files/ri/1.pdf)
+
+[Ⅱ. Random Interlacement: Existence, Properties and Stochastic Domination](../files/ri/2.pdf)
+
+[Ⅲ. Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
+
+[Ⅳ. Percolation of Vacant Sets](../files/ri/4.pdf)
+
+[Ⅴ. A Lower Bound for Disconnection of Random Interlacements](../files/ri/5.pdf)
 
 *Occupation Times of Gaussian Free Fields*
 ===
 
 *Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman*
 
-*IN PROGRESS*
+[Ⅰ. Potential Theory](../files/otgff/1.pdf)
 
-*Guassian Free Field*
+[Ⅱ. Isomorphism Theorems](../files/otgff/2.pdf)
+
+[Ⅲ. Markovian Loops](../files/otgff/3.pdf)
+
+[Ⅳ. Poisson Gas of Markovian Loops](../files/otgff/4.pdf)
+
+*Guassian Free Field and Level Set Percolations*
 ===
 
-*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
+*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell [3].[Phase transition and level-set percolation for the Gaussian free field](https://arxiv.org/abs/1202.5172), Pierre-François Rodriguez, Alain-Sol Sznitman [4].[Disconnection and level-set percolation for the Gaussian free field](https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-67/issue-4/Disconnection-and-level-set-percolation-for-the-Gaussian-free-field/10.2969/jmsj/06741801.full), Alain-Sol Sznitman [5].[Disconnection by level sets of the discrete Gaussian free field and entropic repulsion](https://arxiv.org/abs/1802.02518), Maximilian Nitzschner*
 
-*IN PROGRESS*
+[Ⅰ. Discrete Gaussian Free Fields](../files/gff/1.pdf)
+
+[Ⅱ. Loop Soups](../files/gff/2.pdf)
+
+[Ⅲ. Continuous Gaussian Free Fields](../files/gff/3.pdf)
+
+[Ⅳ. Phase Transition of Level Set Percolations for GFF](../files/gff/4.pdf)
 
 *Schramm-Loewner Evolutions*
 ===
 
 *References:[1].Schramm–Loewner Evolution, Antti Kemppainen [2].[Schramm–Loewner Evolution](http://www.statslab.cam.ac.uk//~jpm205/teaching/lent2019/sle_notes.pdf), Jason Miller [3].[Schramm-Loewner Evolution](https://arxiv.org/pdf/0712.3256.pdf), G. Lawler [4].[Lectures on Schramm–Loewner Evolution](http://www.statslab.cam.ac.uk/~james/Lectures/sle.pdf), N. Berestycki & J.R. Norris*
 
-*IN PROGRESS*
+[Ⅰ. Preliminary: Conformal Mapping, BM, Harmonic Measure and Green Function](../files/sle/1.pdf)
 
+[Ⅱ. Mapping-out Functions: Compact Hulls and Capacity](../files/sle/2.pdf)
+
+[Ⅲ. Chordal Loewner Theory: Loewner Transform and Differential Equation](../files/sle/3.pdf)
+
+[Ⅳ. SLE: Properties, Bessel Flows, Hitting probability, Phase Transition and Conformal Transform](../files/sle/4.pdf)
+
+[Ⅴ. SLE(6): Locality](../files/sle/5.pdf)
+
+[Ⅵ. SLE(8/3)：Brownian Excursions and Restriction](../files/sle/6.pdf)
+
+[Ⅶ. SLE(4) and Gaussian Free Fields](../files/sle/7.pdf)
 
 *Percolation Theory: Conformal Invariance of 2D Lattice Models*
 ===
