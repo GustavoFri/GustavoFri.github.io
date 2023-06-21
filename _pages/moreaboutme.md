@@ -89,9 +89,16 @@ MISC
 
 *"Seit ich des Suchens müde ward,*
 
+*“自从厌倦于追寻，”*
+
 *Erlernte ich das Finden.*
+
+*“我早已学会一觅即中。”*
 
 *Seit mir ein Wind hielt Widerpart,*
 
+*“自从一股逆风袭来，”*
+
 *Segl' ich mit allen Winden."*
  
+*“我已能抵御八面来风架舟而行。”*
