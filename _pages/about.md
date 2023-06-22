@@ -15,7 +15,7 @@ redirect_from:
 Current
 ===
 
-I am fine.
+I am awesome.
 
 Short Bio
 ===
