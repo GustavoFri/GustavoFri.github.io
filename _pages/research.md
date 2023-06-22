@@ -18,7 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        A variant of SLE(64) generated as a light cone of GFF flow lines
+        A variant of SLE(64) generated as a light cone of Gaussian free field flow lines
     </div>
     <p> </p>
 </center>
