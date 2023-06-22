@@ -10,7 +10,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/spiral_white_fan.png" 
-        width = "50%">
+        width = "40%">
     <br>
     <div style = "
         color: orange;
