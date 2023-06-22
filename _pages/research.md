@@ -10,7 +10,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/SLE6.jpg" 
-        width = "60%">
+        width = "80%">
     <br>
     <div style = "
         color: orange;
@@ -25,7 +25,7 @@ author_profile: true
 
 *“Wir müssen wissen,wir werden wissen.” ― David Hilbert*
 
-*"我们必将知道,我们终将知道。"*
+*"我们必将知道，我们终将知道。"*
 
 Research Interests
 ===
