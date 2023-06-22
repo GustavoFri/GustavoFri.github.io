@@ -18,7 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Coupling of SLE(6) and Gaussian free field
+        Coupling of SLE(6) and Gaussian Free Field
     </div>
     <p> </p>
 </center>
