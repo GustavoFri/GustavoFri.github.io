@@ -89,7 +89,7 @@ MISC
 
 *"Seit ich des Suchens müde ward,*
 
-*“自从厌倦于追寻，”*
+*“自从厌倦于追寻，*
 
 *Erlernte ich das Finden.*
 
