@@ -9,7 +9,7 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/SLE6.jpg" 
+        src = "../files/spiral_white_fan.png" 
         width = "80%">
     <br>
     <div style = "
@@ -18,7 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Coupling of SLE(6) and Gaussian Free Field
+        A variant of SLE(64) generated as a light cone of GFF flow lines
     </div>
     <p> </p>
 </center>
