@@ -31,12 +31,12 @@ My primary **research interests** lie in the area involving Probability and Anal
 
 See my CV [here](../files/cv.pdf)
 
-Education
+📖 Education
 ===
 
 * Sept. 2020 --- June 2024: B.Sc. in Statistics, School of Mathematics and Statistics, Wuhan University (Expected)
 
-Honors and Awards
+🎖 Honors and Awards
 ===
 
 1. [First Prize](../files/awards/CMC.jpg), [rank 16th](../files/awards/cmcrank.pdf)*, the 13th China National Mathematics Competition for College Students, Dec. 2021*
@@ -50,17 +50,9 @@ Academic Experiences
 ===
 
 1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**(Funded), Beijing International Center For Mathematical Research
-(BICMR), Beijing, China, July 2023*
-   
+(BICMR), Beijing, China, July 2023*   
 
-Reading Notes
-===
-I have formed a habit of taking reading notes since I came to the realization that advanced mathematics can be overwhelming. This practice has been extremely helpful in constructing my personal knowledge system and facilitating efficient review.
-
-See my reading notes [here](/readingnotes/). Hope it would be helpful for you.
-
-
-Contact
+💬 Contact
 ===
 
 **Pronouns**: he/him/his
