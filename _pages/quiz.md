@@ -5,6 +5,23 @@ permalink: /quiz/
 author_profile: true
 ---
 
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/bg2.PNG" 
+        width = "40%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+    </div>
+    <p> </p>
+</center> 
+
 *“要多想。” ― 《三体》*
 
 *Interesting Quizzes*
@@ -32,22 +49,5 @@ Q6: Do you think one transition function can correspond one CTMC? What's about o
 Q7: What's the dual space of *R^∞* equipped with box topology?
    >Can you recall the definition of dual space? You can think it algebracally rather than analysisly.(hint: search for concepts: inductive limit and projective limit)
 
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/bg2.PNG" 
-        width = "60%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-    </div>
-    <p> </p>
-</center> 
  
 
