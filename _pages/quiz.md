@@ -24,7 +24,7 @@ author_profile: true
 
 *“要多想。” ― 《三体》*
 
-*Interesting Quizzes*
+😵 *Interesting Quizzes*
 ===
 
 Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probability space. If *Xn→X,Yn→Y* both in distribution. Do you think *Xn+Yn→X+Y* in distribution?
