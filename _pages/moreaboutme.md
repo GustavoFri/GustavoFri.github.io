@@ -26,7 +26,7 @@ author_profile: true
 
 *"在隆冬，我终于知道，我的身上有一个不可战胜的夏天。"*
 
-Personal Interests
+🥰 Personal Interests
 ===
 
 **I am a Cinephile**, enjoying watching films spanning from the 1970s to present day. When I'm not immersed in mathematics, I spend the majority of my free time selecting and watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. In fact, I have a dream to be a director. You can see my *Douban* [here](https://www.douban.com/people/210616758/subject_doulists/movie)
