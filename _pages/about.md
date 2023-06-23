@@ -46,6 +46,13 @@ Honors and Awards
 5. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 
 
+Academic Experiences
+===
+
+1. ***Summer School Series on Probability and Related Fields: Masterclass in Random Geometry**, Beijing International Center For Mathematical Research
+(BICMR), PKU, Beijing, China, July 2023*
+   
+
 Reading Notes
 ===
 I have formed a habit of taking reading notes since I came to the realization that advanced mathematics can be overwhelming. This practice has been extremely helpful in constructing my personal knowledge system and facilitating efficient review.
