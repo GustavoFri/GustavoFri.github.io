@@ -15,7 +15,7 @@ redirect_from:
 Current
 ===
 
-I am awesome.
+I am fine.
 
 Short Bio
 ===
@@ -27,7 +27,7 @@ I am now a junior undergraduate student at [the School of Mathematics and Statis
 
 I grew up in Huizhou, Guangdong in Southern China.
 
-My primary **research interests** lie in the area involving Probability and Analysis, like Stochastic Analysis and SPDE. I am also interested in Statistical Physics, such as Percolation, SLE and Gaussian Free Fields. 
+My primary **research interests** lie in the area involving Probability and Analysis. Detailed info is [here](https://gustavofri.github.io/research/)
 
 See my CV [here](../files/cv.pdf)
 
