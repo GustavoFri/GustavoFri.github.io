@@ -61,7 +61,7 @@ The following are my TOP 10:
 
 When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched).
 
->The character in *Attack on Titan* whom I admire most is *Erwin Smith*. I believe that we are of the same kind of people, both possessing a strong desire to uncover    the truth. I deem that we both agree a saying, *"朝闻道，夕死可矣。"*
+>The character in *Attack on Titan* whom I admire most is *Erwin Smith*. I believe that we are of the same kind of people, both agree a saying, *"朝闻道，夕死可矣。"*
 
  >*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
 
@@ -74,11 +74,10 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 My MBTI
 ===
 
-I once took a MBTI test in one class about career planning. Although I think the test may somewhat be a joke, I still put the result here, which may make some sense. 
->People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana*, one sociologist. Don't let the labels limit you and get lost in such boring things.
-
-Whatever, it seems that I may be a **INTJ-A/INTJ-T**.
+It seems that I may be a **INTJ-A/INTJ-T**.
 >**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
+
+*People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana*, one sociologist.* 
 
 MISC
 ===
