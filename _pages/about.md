@@ -74,6 +74,6 @@ My **WeChat** : *Silenc1o*. Feel free to contact me.
 💃🏻 Webpages of My Friends
 ===
 
-* *[Qi Ma]*(https://maqi-math.github.io/)
+* *[Qi Ma](https://maqi-math.github.io/)*
 
 <a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
