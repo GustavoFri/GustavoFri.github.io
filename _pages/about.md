@@ -50,7 +50,7 @@ Academic Experiences
 ===
 
 1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**, Beijing International Center For Mathematical Research
-(BICMR), PKU, Beijing, China, July 2023*
+(BICMR), Beijing, China, July 2023*
    
 
 Reading Notes
