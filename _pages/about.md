@@ -12,12 +12,12 @@ redirect_from:
 
 *"起风了，唯有努力生存。"*
 
-Current
+🗓️ Current
 ===
 
 I am fine.
 
-Short Bio
+😋 Short Bio
 ===
 
 My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist, nourishing, or abundant, while "哲" was chosen by my parents with the hope that I would always think rationally and calmly.
@@ -46,13 +46,13 @@ See my CV [here](../files/cv.pdf)
 5. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 
 
-Academic Experiences
+📰 Academic Experiences
 ===
 
 1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**(Funded), Beijing International Center For Mathematical Research
 (BICMR), Beijing, China, July 2023*   
 
-💬 Contact
+✉️ Contact
 ===
 
 **Pronouns**: he/him/his
