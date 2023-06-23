@@ -40,7 +40,7 @@ Honors and Awards
 ===
 
 1. [First Prize](../files/awards/CMC.jpg), [rank 16th](../files/awards/cmcrank.pdf)*, the 13th China National Mathematics Competition for College Students, Dec. 2021*
-2. [Finalist](https://damo.alibaba.com/events/142)(Top 0.1%)*, the 4th Alibaba Global Mathematics Competition, May 2022*
+2. [Finalist](https://damo.alibaba.com/events/142) (Top 0.1%)*, the 4th Alibaba Global Mathematics Competition, May 2022*
 3. [Winner's Prize](../files/awards/Yau-contest.jpg), [rank 19th](http://yau-contest.com/uploads/file/20220804/20220804000607_65581.pdf)*, the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022*
 4. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (10 in 300+)*, WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 5. [Third Prize](../files/awards/CMC2.jpg) *, Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
@@ -49,7 +49,7 @@ Honors and Awards
 Academic Experiences
 ===
 
-1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**, Beijing International Center For Mathematical Research
+1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**(Funded), Beijing International Center For Mathematical Research
 (BICMR), Beijing, China, July 2023*
    
 
