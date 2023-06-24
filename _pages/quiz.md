@@ -10,7 +10,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/bg2.PNG" 
-        width = "40%">
+        width = "50%">
     <br>
     <div style = "
         color: orange;
@@ -24,7 +24,7 @@ author_profile: true
 
 *“要多想。” ― 《三体》*
 
-😵 *Interesting Quizzes*
+*Interesting Quizzes*
 ===
 
 Q1: For two sequence of r.v.'s *(Xn)* and *(Yn)* independent in a same probability space. If *Xn→X,Yn→Y* both in distribution. Do you think *Xn+Yn→X+Y* in distribution?
