@@ -25,9 +25,9 @@ My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist,
 
 I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability, on the way of being a probabilist.
 
-I grew up in Huizhou, Guangdong in Southern China.
+I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
-My primary **research interests** lie in the area involving Probability and Analysis. Detailed info is [here](https://gustavofri.github.io/research/)
+My primary **research interests** lie in the area involving Probability and Analysis. ([Detailed info](https://gustavofri.github.io/research/))
 
 See my CV [here](../files/cv.pdf)
 
