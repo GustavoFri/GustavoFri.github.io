@@ -77,7 +77,7 @@ My MBTI
 It seems that I'm an **INTJ-A/INTJ-T**.
 >**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
 
-*People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by *Erving Goffmana*, one sociologist.* 
+*People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.* 
 
 MISC
 ===
