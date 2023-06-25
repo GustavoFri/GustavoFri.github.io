@@ -23,7 +23,7 @@ Short Bio
 My name is **Runzhe Yang (杨润哲)**. The Chinese character "润" means moist, nourishing, or abundant, while "哲" was chosen by my parents with the hope that I would always think rationally and calmly.
 > My English name is **Reinhard Yang**. Some people interpret "Reinhard" as "real heart", while it means "mighty and brave or strong judgment" in German. It's also fine to call me *Reiny*.
 
-I am now a junior undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability, on the way of being a probabilist.
+I am now a fourth-year undergraduate student at [the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/), [Wuhan University](https://en.whu.edu.cn/), majoring in Statistics and Probability, on the way of being a probabilist.
 
 I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
@@ -50,7 +50,7 @@ Academic Experiences
 ===
 
 1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**(Funded), Beijing International Center For Mathematical Research
-(BICMR), Beijing, China, July 2023*   
+(BICMR), PKU, Beijing, China, July 2023*   
 
 Contact
 ===
