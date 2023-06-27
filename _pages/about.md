@@ -27,7 +27,7 @@ I am now a fourth-year undergraduate student at [the School of Mathematics and S
 
 I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
-My primary **research interests** lie in the area involving Probability and Analysis. ([Detailed info](https://gustavofri.github.io/research/))
+My primary **research interests** lie in the area involving Probability and Analysis.
 
 See my CV [here](../files/cv.pdf)
 
@@ -49,7 +49,7 @@ Honors and Awards
 Academic Experiences
 ===
 
-1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)**(Funded), Beijing International Center For Mathematical Research
+1. ***[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html)** (Funded), Beijing International Center For Mathematical Research
 (BICMR), PKU, Beijing, China, July 2023*   
 
 Contact
