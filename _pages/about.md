@@ -34,7 +34,7 @@ See my CV [here](../files/cv.pdf)
 Education
 ===
 
-* Sept. 2020 --- June 2024: B.Sc. in Statistics, School of Mathematics and Statistics, Wuhan University (Expected)
+* Sept. 2020 --- June 2024: B.Sc. in Statistics, School of Mathematics and Statistics, Wuhan University, Wuhan, China (Expected)
 
 Honors and Awards
 ===
