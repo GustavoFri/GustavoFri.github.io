@@ -72,4 +72,4 @@ My Friends 💃🏻
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VurRjNBnnfTdhdLuch6drbYVLDSVJDhar_ySx4Kzo7E&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bve6"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VurRjNBnnfTdhdLuch6drbYVLDSVJDhar_ySx4Kzo7E&cl=ffffff" /></a>
