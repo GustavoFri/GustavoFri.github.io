@@ -24,8 +24,6 @@ author_profile: true
 
 *"Au milieu de l’hiver, j’apprenais enfin qu’il y avait en moi un été invincible." ― Albert Camus*
 
-*"在隆冬，我终于知道，我的身上有一个不可战胜的夏天。"*
-
 Personal Interests
 ===
 
