@@ -9,61 +9,54 @@ redirect_from:
 
 *"il cessa de calculer et de vivre." ― Marquis de Condorcet*
 
-*"当欧拉停止了计算，他便停止了生命。"*
-
 Preface
 ===
-In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021, after completing my studies in Linear Algebra and Mathematical Analysis, that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira*(who is my most favorite Mathematician) and develop my own approach to learning MATH. These notes have been incredibly helpful in solidifying my understanding when I'm learning tough courses by myself.
+In July 2020, I walked into the realm of advanced MATH. However, it wasn't until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021 that I realized it's overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira* and develop my own approach to learning MATH.
 
-**I will appreciate it if you can find any mistake or typos and inform me by e-mail.**
-
-*Loop Percolations*
+*Conformal Loop Ensembles*
 ===
+*References: [1]. [Conformal Loop Ensembles: The Markovian characterization and the loop-soup construction, Scott Sheffield, Wendelin Werner](https://arxiv.org/abs/1006.2374) [2]. Autour des relations entre SLE, CLE, champ libre Gaussien, et leur cons´equences, Hao Wu*
 
-*Reference:[1].[Phase transition in loop percolation](https://arxiv.org/abs/1403.5687), Yinshan Chang, Artëm Sapozhnikov [2].[Supercritical loop percolation on Z^d for d≥3](https://arxiv.org/abs/1504.07906) [3].[Decoupling inequalities and supercritical percolation for the vacant set of random walk loop soup](https://arxiv.org/abs/1808.01277), Caio Alves, Artem Sapozhnikov*
-
-*IN PROGRESS*
+**IN PROGRESS**
 
 *Random Interlacements*
 ===
 
-*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman [3].[Lectures on the Poisson Process](https://www.math.kit.edu/stoch/~last/seite/lectures_on_the_poisson_process/media/lastpenrose2017.pdf), Gunter Last, Mathew Penrose [4].[A lower bound for disconnection by random interlacements](https://arxiv.org/abs/1310.2177), Xinyi Li, Alain-Sol Sznitman*
+*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman [3].[Lectures on the Poisson Process](https://www.math.kit.edu/stoch/~last/seite/lectures_on_the_poisson_process/media/lastpenrose2017.pdf), Gunter Last, Mathew Penrose*
 
 [Ⅰ. General Theory of Poisson Process](../files/ri/1.pdf)
 
-[Ⅱ. Random Interlacement: Existence, Properties and Stochastic Domination](../files/ri/2.pdf)
+[Ⅱ. Discrete Time Random Interlacement: Existence, Properties and Stochastic Domination](../files/ri/2.pdf)
 
-[Ⅲ. Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
+[Ⅲ. Discrete Time Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
 
-[Ⅳ. Percolation of Vacant Sets](../files/ri/4.pdf)
+[Ⅳ. Percolation of Vacant Sets on Discrete Time Random Interlacements](../files/ri/4.pdf)
 
-[Ⅴ. A Lower Bound for Disconnection of Random Interlacements](../files/ri/5.pdf)
 
-*Occupation Times of Gaussian Free Fields*
+*Loops and Occupation Time*
 ===
 
-*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman*
+*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman [2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
 
-[Ⅰ. Potential Theory](../files/otgff/1.pdf)
+[Ⅰ. Basic Potential Theory](../files/otgff/1.pdf)
 
 [Ⅱ. Isomorphism Theorems](../files/otgff/2.pdf)
 
-[Ⅲ. Markovian Loops](../files/otgff/3.pdf)
+[Ⅲ. Continuous Time RW Loops: Rooted Loops, Pointed Loops and Unrooted Loops](../files/otgff/3.pdf)
 
-[Ⅳ. Poisson Gas of Markovian Loops](../files/otgff/4.pdf)
+[Ⅳ. Poisson Gas of Continuous Time Loops: Occupation Fields, Representation Formula and Connection with Random Interlacements](../files/otgff/4.pdf)
 
-*Guassian Free Field and Level Set Percolations*
+[Ⅴ. Discrete Time RW Loops and its Poisson Ensembles: Properties, Excursion Decomposition and Occupation Fields](../files/otgff/5.pdf)
+
+*Discrete Gaussian Free Fields*
 ===
 
-*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell [3].[Phase transition and level-set percolation for the Gaussian free field](https://arxiv.org/abs/1202.5172), Pierre-François Rodriguez, Alain-Sol Sznitman [4].[Disconnection and level-set percolation for the Gaussian free field](https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-67/issue-4/Disconnection-and-level-set-percolation-for-the-Gaussian-free-field/10.2969/jmsj/06741801.full), Alain-Sol Sznitman [5].[Disconnection by level sets of the discrete Gaussian free field and entropic repulsion](https://arxiv.org/abs/1802.02518), Maximilian Nitzschner*
+*References:[1].[Statistical Mechanics of Lattice Systems:a Concrete Mathematical Introduction](http://www.unige.ch/math/folks/velenik/smbook/index.html), Chap.8, Friedli, S. and Velenik, Y.[2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
 
-[Ⅰ. Discrete Gaussian Free Fields](../files/gff/1.pdf)
+[Ⅰ. Discrete Gaussian Free Fields: Properties, Thermodynamic Limits, Variation on Markovian Property and Determinant of Laplacian](../files/gff/1.pdf)
 
-[Ⅱ. Loop Soups](../files/gff/2.pdf)
+[Ⅱ. Random Spanning Trees and GFFs: Wilson's Algorithm and Occupation Fields](../files/gff/2.pdf)
 
-[Ⅲ. Continuous Gaussian Free Fields](../files/gff/3.pdf)
-
-[Ⅳ. Phase Transition of Level Set Percolations for GFF](../files/gff/4.pdf)
 
 *Schramm-Loewner Evolutions*
 ===
@@ -82,7 +75,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅵ. SLE(8/3): Brownian Excursions and Restriction](../files/sle/6.pdf)
 
-[Ⅶ. SLE(4) and Gaussian Free Fields](../files/sle/7.pdf)
+[Ⅶ. SLE(4) and Continumm Gaussian Free Fields](../files/sle/7.pdf)
 
 *Percolation Theory: Conformal Invariance of 2D Lattice Models*
 ===
@@ -111,7 +104,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅲ.Diffusion Process: Properties, Generators, Feynman-Kac Formula, Mart. Problem, Random Time Change, Girsanov THM of Diffusions](../files/sde/3.pdf)
 
-[Ⅳ.Stationary Distribution of Diffusions](../files/sde/4.pdf)
+[Complement: Stationary Distribution of Diffusions](../files/sde/4.pdf)
 
 *Harmonic Analysis*
 ===
