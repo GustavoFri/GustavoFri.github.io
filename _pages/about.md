@@ -10,8 +10,6 @@ redirect_from:
 
 *"Le vent se lève, il faut tenter de vivre." ― Paul Valéry*
 
-*"起风了，唯有努力生存。"*
-
 Current
 ===
 
