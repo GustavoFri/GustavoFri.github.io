@@ -25,8 +25,6 @@ author_profile: true
 
 *“Wir müssen wissen,wir werden wissen.” ― David Hilbert*
 
-*"我们必将知道，我们终将知道。"*
-
 Research Interests
 ===
 
