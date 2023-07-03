@@ -17,7 +17,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 ===
 *References: [1]. [Conformal Loop Ensembles: The Markovian characterization and the loop-soup construction, Scott Sheffield, Wendelin Werner](https://arxiv.org/abs/1006.2374) [2]. Autour des relations entre SLE, CLE, champ libre Gaussien, et leur cons´equences, Hao Wu*
 
-**IN PROGRESS**
+***IN PROGRESS***
 
 *Random Interlacements*
 ===
@@ -168,13 +168,13 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *References:[1]Partial Differential Equations, Lawrence C. Evans [2]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis*
 
-[Ⅰ.Preliminary](../files/pde/1.pdf)
+[Ⅰ.Preliminary: Matrix Analysis, Green Identity](../files/pde/1.pdf)
 
-[Ⅱ.Four Kinds of PDEs](../files/pde/2.pdf)
+[Ⅱ.Four Kinds of PDEs: Transpot Equations, Laplace Equations, Heat Equations and Wave Equations](../files/pde/2.pdf)
 
 [Ⅲ.Envelope and Charateristic Method](../files/pde/3.pdf)
 
-[Ⅳ.Solution Representation](../files/pde/4.pdf)
+[Ⅳ.Solution Representation: Separation of Variables and Transform Methods](../files/pde/4.pdf)
 
 [Ⅴ.Soblev Space](../files/pde/5.pdf)
 
@@ -401,8 +401,6 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 [Ⅶ.Decision Theory and Bayesian Inference](../files/si/7.pdf)
 
 [Complement: Fisher Information](../files/si/8.pdf)
-
-[Complement: Examine Statistical model](../files/si/9.pdf)
 
 *Ordinary Differential Equations*
 ===
