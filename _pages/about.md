@@ -13,7 +13,7 @@ redirect_from:
 Current
 ===
 
-I have removed my homepage to [here](runzhe-yang.github.io) and I won't update on this webpage now.
+I have removed my homepage to [here](https://runzhe-yang.github.io/) and I won't update on this webpage now.
 
 Short Bio
 ===
