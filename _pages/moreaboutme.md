@@ -69,14 +69,6 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **BTW, I am also a semiprofessional DETECTIVE.**
 
-My MBTI
-===
-
-It seems that I'm an **INTJ-A/INTJ-T**.
->**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
-
-*People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.* 
-
 MISC
 ===
 
@@ -99,3 +91,11 @@ MISC
 *Segl' ich mit allen Winden."*
  
 *我已能抵御八面来风架舟而行。”*
+
+My MBTI
+===
+
+It seems that I'm an **INTJ-A/INTJ-T**.
+>**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
+
+>People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.
