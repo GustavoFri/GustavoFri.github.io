@@ -65,9 +65,21 @@ When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Ge
 
 Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of *Karwei Wong* in Japaness Anime), *Makoto Shinkai*.
 
-**I love Classical Music.** My most favorite musician is *Johann Sebastian Bach*.
+**I'm also a music lover.** I'm obsessed with classical music. I loce *Johann Sebastian Bach* and appreciate the operas from *Richard Wager* (I knew he from a serie: *Inspector Morse* actually). I also enjor some pop music, like the works from *Jay Zhou* and *Stefanie Sun*. BTW, I am very astonished with the appearance of *AI-Stefanie Sun*. Sometimes, I also enjor some works from Japanese female idol groups, like *Nogizaka46*, *Sakurazaka46*. Rock music seems not to work on me. But I appreciate the taste of Director *James Gunn* on rock music in his works very much. 
+
+**Sadly speaking, I spend less time on literatures nowadays.** My favortie writter is *William Faulkner*. I once also got addicted with the novels from *Mo Yan* when I was in middle school.
+
+**My favorite Philosopher is Friedrich Nietzsche.** I appreciate his thinking on nihilism and the famous statement: *God was dead*.
 
 **BTW, I am also a semiprofessional DETECTIVE.**
+
+My MBTI
+===
+
+It seems that I'm an **INTJ-A/INTJ-T**.
+>**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
+
+>People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.
 
 MISC
 ===
@@ -92,10 +104,3 @@ MISC
  
 *我已能抵御八面来风架舟而行。”*
 
-My MBTI
-===
-
-It seems that I'm an **INTJ-A/INTJ-T**.
->**Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive 
-
->People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.
