@@ -27,7 +27,7 @@ author_profile: true
 Photographs
 ===
 
-I am an amateur photographer, still learning photographic art. I will also share them on *[500px](https://500px.com.cn/community/index.html)*, you can see my works [here](https://500px.com.cn/runzheyang).
+I am an amateur photographer, still learning photographic art. I will share them on *[500px](https://500px.com.cn/community/index.html)*, you can see my works [here](https://500px.com.cn/runzheyang).
 
 Some Selected Works
 ===
