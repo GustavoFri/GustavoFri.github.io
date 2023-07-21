@@ -71,8 +71,6 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **My favorite Philosopher is Friedrich Nietzsche.** I appreciate his thinking on nihilism and the famous statement: *God was dead*.
 
-**BTW, I am also a semiprofessional DETECTIVE.**
-
 My MBTI
 ===
 
