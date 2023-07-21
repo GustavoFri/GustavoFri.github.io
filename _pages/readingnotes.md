@@ -19,6 +19,12 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 ***IN PROGRESS***
 
+*Modern Random Walks*
+===
+*References: [1]. Intersections of Random Walks, Gregory F. Lawler [2]. Random Walk: A Modern Introduction, Gregory F. Lawler and Vlada Limic [3]. The Art of Random Walks, András Telcs
+
+***IN PROGRESS***
+
 *Random Interlacements*
 ===
 
