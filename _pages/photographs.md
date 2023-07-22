@@ -18,6 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
+        Sometimes I am an ocean while sometimes I am a lake.
     </div>
     <p> </p>
 </center>
@@ -47,6 +48,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        Colors fade when roles change.
     </div>
     <p> </p>
 </center>
@@ -64,6 +66,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        Mirror reflection as the complement of sky.
     </div>
     <p> </p>
 </center>
@@ -81,6 +84,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        Like an eye filled with bamboos. A sense of zen.
     </div>
     <p> </p>
 </center>
@@ -98,6 +102,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        A way to renascence.
     </div>
     <p> </p>
 </center>
@@ -115,6 +120,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        A prisoner faces to sunshine.
     </div>
     <p> </p>
 </center>
@@ -132,6 +138,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        An oil painting on canvas of lake.
     </div>
     <p> </p>
 </center>
