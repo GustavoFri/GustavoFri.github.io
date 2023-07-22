@@ -18,7 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Sometimes I am an ocean while sometimes I am a lake.
+        Sometimes I am an ocean while sometimes I am a lake. 
     </div>
     <p> </p>
 </center>
