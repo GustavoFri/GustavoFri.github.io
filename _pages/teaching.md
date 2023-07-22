@@ -5,4 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-NULL
+
+Null
