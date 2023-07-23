@@ -159,7 +159,7 @@ Some Selected Works
         padding: 2px;">
         Suzhou
     </div>
-    <p> </p
+    <p> </p>
 </center>
 
 <center>
