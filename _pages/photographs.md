@@ -18,7 +18,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Sometimes I am an ocean while sometimes I am a lake
+        Sometimes I am an ocean while sometimes I am a lake.
     </div>
     <p> </p>
 </center>
@@ -34,7 +34,7 @@ I am an amateur photographer, still learning photographic art. I will share my w
 Some Selected Works
 ===
 
-**Devices**: *Nikon Zfc, NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
+**Devices**: *Nikon Zfc with lens: NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
 
 <center>
     <img style = "
@@ -49,7 +49,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Colors fade when roles change
+        Colors fade when roles change.
     </div>
     <p> </p>
 </center>
@@ -67,7 +67,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Mirror reflection as the complement of sky
+        Mirror reflection as the complement of sky.
     </div>
     <p> </p>
 </center>
@@ -85,7 +85,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        An eye filled with bamboos gives a sense of zen
+        An eye filled with bamboos. A sense of zen.
     </div>
     <p> </p>
 </center>
@@ -103,7 +103,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        A way to renascence
+        A way to renascence.
     </div>
     <p> </p>
 </center>
@@ -121,7 +121,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        A prisoner faces to sunshine
+        A prisoner bathes in sunshine.
     </div>
     <p> </p>
 </center>
@@ -139,7 +139,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        An oil painting on canvas of lake
+        An oil painting on canvas of lake.
     </div>
     <p> </p>
 </center>
@@ -157,7 +157,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Suzhou, May, 2023
+        Suzhou.
     </div>
     <p> </p>
 </center>
@@ -175,7 +175,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Nanjing, May, 2023
+        Nanjing.
     </div>
     <p> </p>
 </center>
@@ -193,7 +193,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Beijing, July, 2023
+        Beijing.
     </div>
     <p> </p>
 </center>
@@ -211,7 +211,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Beijing, July, 2023
+        Beijing.
     </div>
     <p> </p>
 </center>
@@ -229,9 +229,8 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Nanjing, May, 2023
+        Nanjing.
     </div>
     <p> </p>
 </center>
-
 
