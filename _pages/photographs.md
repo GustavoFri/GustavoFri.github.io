@@ -49,7 +49,6 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        The moon falls from a UFO 
     </div>
     <p> </p>
 </center>
