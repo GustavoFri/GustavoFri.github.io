@@ -36,6 +36,10 @@ Some Selected Works
 
 **Devices**: *Nikon Zfc with lens: NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
 
+*"Which of my photographs is my favorite?*
+
+*The one I am going to take tomorrow." -- Imogen Cunnigham*
+
 <center>
     <img style = "
         border-radius: 0.3125em;
