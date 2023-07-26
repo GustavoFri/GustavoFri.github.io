@@ -37,6 +37,8 @@ The following are my TOP 10:
 
 - *The Curious Case of Benjamin Button, directed by David Fincher*
 
+- *Thirst, directed by Park Chan-wook*
+
 - *Fight Club, directed by David Fincher*
 
 - *Days of Being Wild, directed by Karwei Wong*
@@ -69,7 +71,7 @@ Additionally, I have a great appreciation for the works of *Shinichirō Watanabe
 
 **Sadly speaking, I spend less time on literatures nowadays.** My favortie writter is *William Faulkner*. I once also got addicted with the novels from *Mo Yan* when I was in middle school.
 
-**My favorite Philosopher is Friedrich Nietzsche.** I appreciate his thinking on nihilism and the famous statement: *God was dead*.
+**I admire the Philosopher *Friedrich Nietzsche* very much.** I appreciate his thinking on nihilism and the famous statement: *God was dead*.
 
 My MBTI
 ===
