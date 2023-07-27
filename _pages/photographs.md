@@ -29,7 +29,7 @@ author_profile: true
 Photographs
 ===
 
-I am an amateur photographer, still learning photographic art. As a saying in one film *A One and a Two* goes, *we only can see half of our world,* I like taking photos of something that most people can't see. I will share my works on *[500px](https://500px.com.cn/community/index.html)*, you can see them [here](https://500px.com.cn/runzheyang).
+I am an amateur photographer, still learning photographic art. As a saying in one film *A One and a Two* goes, *we can only see the half of our world,* I like taking photos of something that most people can't see. I will share my works on *[500px](https://500px.com.cn/community/index.html)*, you can see them [here](https://500px.com.cn/runzheyang).
 
 Some Selected Works
 ===
