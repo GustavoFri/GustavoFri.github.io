@@ -69,7 +69,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        illumination of street lamp
+        Illumination of street lamp
     </div>
     <p> </p>
 </center>
