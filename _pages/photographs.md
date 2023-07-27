@@ -51,7 +51,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        SOS stays alone
+        The lonely SOS screams silently
     </div>
     <p> </p>
 </center>
