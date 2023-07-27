@@ -29,7 +29,7 @@ author_profile: true
 Photographs
 ===
 
-I am an amateur photographer, still learning photographic art. As a saying in one film *A One and a Two* goes, *我们只能看到一半的世界,* I like taking photos of something that most people can't see. I will share my works on *[500px](https://500px.com.cn/community/index.html)*, you can see them [here](https://500px.com.cn/runzheyang).
+I am an amateur photographer, still learning photographic art. As a saying in one film *A One and a Two* goes, *we only can see half of our world,* I like taking photos of something that most people can't see. I will share my works on *[500px](https://500px.com.cn/community/index.html)*, you can see them [here](https://500px.com.cn/runzheyang).
 
 Some Selected Works
 ===
@@ -37,6 +37,24 @@ Some Selected Works
 **Devices**: *Nikon Zfc with lens: NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
 
 >"Which of my photographs is my favorite? The one I am going to take tomorrow." -- Imogen Cunnigham
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/photos/13.jpg" 
+        width = "100%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        SOS stays alone
+    </div>
+    <p> </p>
+</center>
 
 <center>
     <img style = "
@@ -51,6 +69,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
+        illumination of street lamp
     </div>
     <p> </p>
 </center>
