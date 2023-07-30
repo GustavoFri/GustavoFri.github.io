@@ -31,7 +31,7 @@ See my CV [here](../files/cv.pdf)
 Education
 ===
 
-* Feb. 2024 --- June 2024: Visiting internship student, Department of Mathematics, Hong Kong Unniversity of Science and Technology, Hong Kong SAR, hosted by Prof. [*Maximilian Nitzschner*](https://cims.nyu.edu/~mn2977/) (Expected)
+* Feb. 2024 --- June 2024: Visiting internship student, Department of Mathematics, Hong Kong Unniversity of Science and Technology, Hong Kong SAR, China, hosted by Prof. [*Maximilian Nitzschner*](https://cims.nyu.edu/~mn2977/) (Expected)
 
 * Sept. 2020 --- June 2024: B.Sc. in Statistics, School of Mathematics and Statistics, Wuhan University, Wuhan, China (Expected)
 
