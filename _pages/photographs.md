@@ -31,7 +31,7 @@ Photographs
 
 I am an amateur photographer, still learning photographic art. As a saying in one film *A One and a Two* goes, *we can only see the half of our world,* I like taking photos of something that most people can't see. I will share my works on *[500px](https://500px.com.cn/community/index.html)*, you can see them [here](https://500px.com.cn/runzheyang).
 
-Some Selected Works
+Selected Works
 ===
 
 **Devices**: *Nikon Zfc with lens: NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
