@@ -34,9 +34,25 @@ I am an amateur photographer, still learning photographic art. As a saying in on
 Selected Works
 ===
 
-**Devices**: *Nikon Zfc with lens: NIKKOR Z 40mm f/2, NIKKOR Z DX 16-50mm f/3.5-6.3 VR; iPhone*
-
 >"Which of my photographs is my favorite? The one I am going to take tomorrow." ― Imogen Cunnigham
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/photos/15.jpg" 
+        width = "100%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Tree
+    </div>
+    <p> </p>
+</center>
 
 <center>
     <img style = "
@@ -52,6 +68,24 @@ Selected Works
         color: #999;
         padding: 2px;">
         The lonely SOS screams silently
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/photos/14.jpg" 
+        width = "100%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Moon in river
     </div>
     <p> </p>
 </center>
