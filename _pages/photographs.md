@@ -10,7 +10,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/photos/0.jpg" 
-        width = "50%">
+        width = "100%">
     <br>
     <div style = "
         color: orange;
@@ -41,7 +41,7 @@ Selected Works
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/photos/15.jpg" 
-        width = "100%">
+        width = "50%">
     <br>
     <div style = "
         color: orange;
