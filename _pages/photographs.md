@@ -112,7 +112,7 @@ Selected Works
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/photos/2.jpg" 
+        src = "../files/pictures/photos/4.jpg" 
         width = "100%">
     <br>
     <div style = "
@@ -121,7 +121,7 @@ Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Mirror reflection as the complement of sky
+        A way to renascence
     </div>
     <p> </p>
 </center>
@@ -140,24 +140,6 @@ Selected Works
         color: #999;
         padding: 2px;">
         An eye filled with bamboos with a sense of zen
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/photos/4.jpg" 
-        width = "100%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        A way to renascence
     </div>
     <p> </p>
 </center>
