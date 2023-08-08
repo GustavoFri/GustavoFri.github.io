@@ -49,7 +49,7 @@ Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Tree
+        Dance of tree
     </div>
     <p> </p>
 </center>
