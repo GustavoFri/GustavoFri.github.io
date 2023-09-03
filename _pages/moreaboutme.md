@@ -59,17 +59,17 @@ The following are my TOP 10:
 
 - *Better Call Saul*
 
-When it comes to Anime, I love *Rick and Morty*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched).
+When it comes to Anime, I love *Rick and Morty*, *Futurama*, *Attack on Titan*, and *Neon Genesis Evangelion* (these are pretty much all the anime I have watched).
 
 >The character in *Attack on Titan* whom I admire most is *Erwin Smith*. I believe that we are of the same kind of people, both agree a saying, *"朝闻道，夕死可矣。"*
 
- >*"この世の真実が明らかになる瞬間には私が立ち会わなければならない" ― Erwin Smith*
+Additionally, I have a great appreciation for the works of *Shinichirō Watanabe (渡边信一郎)* , a dual director of *Karwei Wong* in Japaness Anime.
 
-Additionally, I have a great appreciation for the works of *Shinichirō Watanabe*(A DUAL director of *Karwei Wong* in Japaness Anime), *Makoto Shinkai*.
+**I appreciate the works from *Tatsuki Fujimoto (藤本树)* very much although I don't read manga usually.** The following are the rank of some of his works depending on my preference: 1. *Goodbye, Eri* 2. *Look Back* 3. *Fire punch* 4. *Chainsaw man*
+ 
+**I'm also a music lover.** I'm obsessed with classical music. I loce *Johann Sebastian Bach* and appreciate the operas from *Richard Wager* (I knew he from a serie: *Inspector Morse* actually). I also enjor some pop music, like the works from *Jay Zhou* and *Stefanie Sun*. I am also astonished with the appearance of *AI-Stefanie Sun*. Sometimes, I also enjor some works from Japanese female idol groups, like *Nogizaka46*, *Sakurazaka46*. BTW I appreciate the taste of Director *James Gunn* on rock music in his works very much. 
 
-**I'm also a music lover.** I'm obsessed with classical music. I loce *Johann Sebastian Bach* and appreciate the operas from *Richard Wager* (I knew he from a serie: *Inspector Morse* actually). I also enjor some pop music, like the works from *Jay Zhou* and *Stefanie Sun*. BTW, I am very astonished with the appearance of *AI-Stefanie Sun*. Sometimes, I also enjor some works from Japanese female idol groups, like *Nogizaka46*, *Sakurazaka46*. Rock music seems not to work on me. But I appreciate the taste of Director *James Gunn* on rock music in his works very much. 
-
-**Sadly speaking, I spend less time on literatures nowadays.** My favortie writter is *William Faulkner*. I once also got addicted with the novels from *Mo Yan* when I was in middle school.
+**My favortie writter is *William Faulkner*.** (Sadly speaking, I spend less time on reading literature nowadays.) I once also got addicted with the novels from *Yan Mo* when I was in middle school.
 
 **I admire the Philosopher *Friedrich Nietzsche* very much.** I appreciate his thinking on nihilism and the famous statement: *God was dead*.
 
