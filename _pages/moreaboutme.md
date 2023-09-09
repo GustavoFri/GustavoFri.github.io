@@ -65,7 +65,7 @@ When it comes to Anime, I love *Rick and Morty*, *Futurama*, *Attack on Titan*, 
 
 Additionally, I have a great appreciation for the works of *Shinichirō Watanabe (渡边信一郎)* , a dual director of *Karwei Wong* in Japaness Anime.
 
-**I appreciate the works from *Tatsuki Fujimoto (藤本树)* very much although I don't read manga usually.** The following are the rank of some of his works depending on my preference: 1. *Goodbye, Eri* 2. *Look Back* 3. *Fire punch* 4. *Chainsaw man*
+**I appreciate the works from *Tatsuki Fujimoto (藤本树)* very much although I don't read manga usually.** The following are the rank of some of his works depending on my preference: 1. *Goodbye, Eri* 2. *Fire punch* 3.*Chainsaw man* 4. *Look Back*
  
 **I'm also a music lover.** I'm obsessed with classical music. I loce *Johann Sebastian Bach* and appreciate the operas from *Richard Wager* (I knew he from a serie: *Inspector Morse* actually). I also enjor some pop music, like the works from *Jay Zhou* and *Stefanie Sun*. I am also astonished with the appearance of *AI-Stefanie Sun*. Sometimes, I also enjor some works from Japanese female idol groups, like *Nogizaka46*, *Sakurazaka46*. BTW I appreciate the taste of Director *James Gunn* on rock music in his works very much. 
 
