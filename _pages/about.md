@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*"Bite my shiny metal ass!" ― Bender*
+*"Bite my shiny metal ass!" ― Bender Bending Rodriguez*
 
 ***I have removed my homepage to [here](https://runzhe-yang.github.io/) and I won't update on this webpage now.***
 
