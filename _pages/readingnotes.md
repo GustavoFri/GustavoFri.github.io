@@ -231,7 +231,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *References: [1]. [Large Deviations, S. R. S. Varadhan](https://www.jstor.org/stable/25450593) [2].[A basic introduction to large deviations: Theory, applications, simulations](https://arxiv.org/abs/1106.4146) [3].[Master Program: Probability Theory, Claudio Landim](https://www.youtube.com/watch?v=hnfIcIhq74g&t=1870s)*
 
-[Ⅰ.Large Deviation for i.i.d.  sequence](../files/ldt/1.pdf)
+[Ⅰ.Large Deviation for i.i.d. Sequence](../files/ldt/1.pdf)
 
 [Ⅱ.General Principles: Properties, Contraction THM, Varadhan THM](../files/ldt/2.pdf)
 
