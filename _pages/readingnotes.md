@@ -17,13 +17,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 ===
 *References: [1]. [Conformal Loop Ensembles: The Markovian characterization and the loop-soup construction, Scott Sheffield, Wendelin Werner](https://arxiv.org/abs/1006.2374) [2]. Autour des relations entre SLE, CLE, champ libre Gaussien, et leur cons´equences, Hao Wu*
 
-***IN PROGRESS***
-
-*Modern Random Walks*
-===
-*References: [1]. Intersections of Random Walks, Gregory F. Lawler [2]. Random Walk: A Modern Introduction, Gregory F. Lawler and Vlada Limic [3]. The Art of Random Walks, András Telcs*
-
-***IN PROGRESS***
+***Suspending***
 
 *Random Interlacements*
 ===
@@ -83,9 +77,22 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 [Ⅶ. SLE(4) and Continumm Gaussian Free Fields](../files/sle/7.pdf)
 
+*Modern Random Walks*
+===
+*References: [1]. Intersections of Random Walks, Gregory F. Lawler [2]. Random Walk: A Modern Introduction, Gregory F. Lawler and Vlada Limic [3]. The Art of Random Walks, András Telcs*
+
+***IN PROGRESS***
+
+*Percolation Theory: General Systems and Morden Techniques*
+===
+
+*Reference: [1].Percolation, Geoffrey Grimmett [2].[Percolation Theory, Vincent Tassion](https://metaphor.ethz.ch/x/2020/hs/401-4607-59L/) [3].Percolation Theory, Kim Christensen*
+
+***In PROGRESS***
+
 *Percolation Theory: Conformal Invariance of 2D Lattice Models*
 ===
-*References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov [4]Percolation Theory, Kim Christensen*
+*References:[1]Random Planar Curves and Schramm-Loewner Evolutions, Wendelin Werner[2] Lectures on two-dimensional critical percolation, Wendelin Werner [3] Conformal invariance of lattice models, Hugo Duminil-Copin, Stanislav Smirnov*
 
 *Mostly base on the lectures given by Hao WU, YMSC*
 
@@ -218,6 +225,15 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 [Complement: Quotient Space](../files/fa/12.pdf)
 
 [Complement: Vector Space over Complex Domain](../files/fa/13.pdf)
+
+*Large Deviation Theory*
+===
+
+*References: [1]. [Large Deviations, S. R. S. Varadhan](https://www.jstor.org/stable/25450593) [2].[A basic introduction to large deviations: Theory, applications, simulations](https://arxiv.org/abs/1106.4146) [3].[Master Program: Probability Theory, Claudio Landim](https://www.youtube.com/watch?v=hnfIcIhq74g&t=1870s)*
+
+[Ⅰ.Large Deviation for i.i.d.  sequence](../files/ldt/1.pdf)
+
+[Ⅱ.General Principles: Properties, Contraction THM, Varadhan THM](../files/ldt/2.pdf)
 
 
 *Advanced Probability Thoery*
