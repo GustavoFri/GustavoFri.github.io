@@ -17,7 +17,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 ===
 *References: [1]. [Conformal Loop Ensembles: The Markovian characterization and the loop-soup construction, Scott Sheffield, Wendelin Werner](https://arxiv.org/abs/1006.2374) [2]. Autour des relations entre SLE, CLE, champ libre Gaussien, et leur cons´equences, Hao Wu*
 
-***Suspending***
+***SUSPENDED***
 
 *Random Interlacements*
 ===
@@ -88,7 +88,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 *Reference: [1].Percolation, Geoffrey Grimmett [2].[Percolation Theory, Vincent Tassion](https://metaphor.ethz.ch/x/2020/hs/401-4607-59L/) [3].Percolation Theory, Kim Christensen*
 
-***In PROGRESS***
+***IN PROGRESS***
 
 *Percolation Theory: Conformal Invariance of 2D Lattice Models*
 ===
