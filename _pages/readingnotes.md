@@ -19,6 +19,20 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 
 ***SUSPENDED***
 
+*Percolation Theory: General Models and Morden Techniques*
+===
+
+*References: [1].Percolation, Geoffrey Grimmett [2].[Percolation Theory, Vincent Tassion](https://metaphor.ethz.ch/x/2020/hs/401-4607-59L/) [3].Percolation Theory, Kim Christensen*
+
+***IN PROGRESS***
+
+*Multidimensional Complex Analysis*
+===
+
+*References: [1]. [Lecture notes on multidimensional complex analysis, Harold P. Boas](https://haroldpboas.gitlab.io/courses/650-2019c/notes.pdf) [2].多元复分析, 涂振汉
+
+***IN PROGRESS***
+
 *Random Interlacements*
 ===
 
@@ -36,7 +50,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Loops and Occupation Time*
 ===
 
-*Reference:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman [2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
+*References:[1]. [Topics in Occupation Times and Gaussian Free Fields](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2011_special_topics.pdf), A. Sznitman [2].[Lecture notes on the Gaussian Free Field](https://arxiv.org/abs/2004.04720), W. Werner, E. Powell*
 
 [Ⅰ. Basic Potential Theory](../files/otgff/1.pdf)
 
@@ -80,13 +94,6 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn't until
 *Modern Random Walks*
 ===
 *References: [1]. Intersections of Random Walks, Gregory F. Lawler [2]. Random Walk: A Modern Introduction, Gregory F. Lawler and Vlada Limic [3]. The Art of Random Walks, András Telcs*
-
-***IN PROGRESS***
-
-*Percolation Theory: General Systems and Morden Techniques*
-===
-
-*Reference: [1].Percolation, Geoffrey Grimmett [2].[Percolation Theory, Vincent Tassion](https://metaphor.ethz.ch/x/2020/hs/401-4607-59L/) [3].Percolation Theory, Kim Christensen*
 
 ***IN PROGRESS***
 
